@@ -1,0 +1,27 @@
+# Default configuration values
+llm:
+  provider: "openrouter"
+  model: "qwen/qwen3-coder:free"
+  temperature: 0.7
+  max_tokens: 1000
+  system_prompt: "You are a helpful assistant."
+  rate_limit_requests: 60  # requests per minute
+  rate_limit_period: 60  # seconds
+
+memory:
+  backend: "sqlite"
+  database_path: "data/memory.db"
+  max_memory_items: 1000
+
+agent:
+  name: "PersonalAgent"
+  personality: "helpful"
+  max_history_length: 10
+
+feedback:
+  enabled: true
+  rating_scale: 5  # 1-5 rating scale
+  adapt_threshold: 3  # Threshold for adaptation (ratings below this will trigger adaptation)
+  collect_feedback: true
+
+debug: false

@@ -1,0 +1,44 @@
+================================================================================
+PERSONAL AGENT - END-TO-END TEST RESULTS
+================================================================================
+Test Run: 2025-08-05 13:33:41
+Completed: 2025-08-05 13:33:41
+Duration: 0.00 seconds
+Total Tests: 5
+Passed: 0
+Failed: 5
+Success Rate: 0.0%
+
+SUITE BREAKDOWN:
+----------------------------------------
+conversation_flow:
+  Total: 1, Passed: 0, Failed: 1 (0.0%)
+memory_functionality:
+  Total: 1, Passed: 0, Failed: 1 (0.0%)
+llm_integration:
+  Total: 1, Passed: 0, Failed: 1 (0.0%)
+feedback_mechanism:
+  Total: 1, Passed: 0, Failed: 1 (0.0%)
+error_handling:
+  Total: 1, Passed: 0, Failed: 1 (0.0%)
+
+FAILED TESTS DETAILS:
+----------------------------------------
+[conversation_flow] Unknown Test
+  Message: 
+
+[memory_functionality] Unknown Test
+  Message: 
+
+[llm_integration] Unknown Test
+  Message: 
+
+[feedback_mechanism] Unknown Test
+  Message: 
+
+[error_handling] Unknown Test
+  Message: 
+
+----------------------------------------
+OVERALL STATUS: FAILED
+================================================================================

@@ -1,0 +1,7 @@
+# Personal Agent - Core Dependencies
+PyYAML>=6.0
+bleach>=6.0.0
+aiosqlite>=0.17.0
+
+# LLM Dependencies
+openai>=1.0.0

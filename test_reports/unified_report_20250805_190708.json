@@ -1,0 +1,37 @@
+{
+  "title": "Personal Agent - End-to-End Test Results",
+  "start_time": "2025-08-05T19:07:08.345208",
+  "end_time": "2025-08-05T19:07:08.345216",
+  "duration": 8e-06,
+  "summary": {
+    "total_tests": 1,
+    "passed_tests": 0,
+    "failed_tests": 1,
+    "success_rate": 0.0
+  },
+  "suite_breakdown": {
+    "memory_functionality": {
+      "total": 1,
+      "passed": 0,
+      "failed": 1
+    }
+  },
+  "failed_tests": [
+    {
+      "suite": "memory_functionality",
+      "test": "Unknown Test",
+      "message": "",
+      "error": null
+    }
+  ],
+  "all_results": [
+    {
+      "suite": "memory_functionality",
+      "test": "Unknown Test",
+      "passed": false,
+      "message": "",
+      "error": null,
+      "timestamp": "2025-08-05T19:07:08.345214"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "title": "Personal Agent - End-to-End Test Results",
+  "start_time": "2025-08-05T18:35:28.043289",
+  "end_time": "2025-08-05T18:35:28.043308",
+  "duration": 1.9e-05,
+  "summary": {
+    "total_tests": 5,
+    "passed_tests": 0,
+    "failed_tests": 5,
+    "success_rate": 0.0
+  },
+  "suite_breakdown": {
+    "conversation_flow": {
+      "total": 1,
+      "passed": 0,
+      "failed": 1
+    },
+    "memory_functionality": {
+      "total": 1,
+      "passed": 0,
+      "failed": 1
+    },
+    "llm_integration": {
+      "total": 1,
+      "passed": 0,
+      "failed": 1
+    },
+    "feedback_mechanism": {
+      "total": 1,
+      "passed": 0,
+      "failed": 1
+    },
+    "error_handling": {
+      "total": 1,
+      "passed": 0,
+      "failed": 1
+    }
+  },
+  "failed_tests": [
+    {
+      "suite": "conversation_flow",
+      "test": "Unknown Test",
+      "message": "",
+      "error": null
+    },
+    {
+      "suite": "memory_functionality",
+      "test": "Unknown Test",
+      "message": "",
+      "error": null
+    },
+    {
+      "suite": "llm_integration",
+      "test": "Unknown Test",
+      "message": "",
+      "error": null
+    },
+    {
+      "suite": "feedback_mechanism",
+      "test": "Unknown Test",
+      "message": "",
+      "error": null
+    },
+    {
+      "suite": "error_handling",
+      "test": "Unknown Test",
+      "message": "",
+      "error": null
+    }
+  ],
+  "all_results": [
+    {
+      "suite": "conversation_flow",
+      "test": "Unknown Test",
+      "passed": false,
+      "message": "",
+      "error": null,
+      "timestamp": "2025-08-05T18:35:28.043296"
+    },
+    {
+      "suite": "memory_functionality",
+      "test": "Unknown Test",
+      "passed": false,
+      "message": "",
+      "error": null,
+      "timestamp": "2025-08-05T18:35:28.043301"
+    },
+    {
+      "suite": "llm_integration",
+      "test": "Unknown Test",
+      "passed": false,
+      "message": "",
+      "error": null,
+      "timestamp": "2025-08-05T18:35:28.043304"
+    },
+    {
+      "suite": "feedback_mechanism",
+      "test": "Unknown Test",
+      "passed": false,
+      "message": "",
+      "error": null,
+      "timestamp": "2025-08-05T18:35:28.043305"
+    },
+    {
+      "suite": "error_handling",
+      "test": "Unknown Test",
+      "passed": false,
+      "message": "",
+      "error": null,
+      "timestamp": "2025-08-05T18:35:28.043307"
+    }
+  ]
+}

@@ -1,0 +1,1127 @@
+2025-08-04 17:33:07,200 - PersonalAgent - INFO - This is an info message
+2025-08-04 17:33:07,200 - PersonalAgent - WARNING - This is a warning message
+2025-08-04 17:33:07,200 - PersonalAgent - ERROR - This is an error message
+2025-08-04 17:33:07,200 - PersonalAgent - CRITICAL - This is a critical message
+2025-08-04 17:33:07,200 - PersonalAgent - ERROR - Exception in test_exception_logging: ValueError: This is a test exception
+2025-08-04 17:34:22,518 - PersonalAgent - INFO - Initializing OpenAI provider
+2025-08-04 17:34:22,518 - PersonalAgent - ERROR - Exception in LLM provider initialization: OpenAIError: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-08-04 17:34:22,519 - PersonalAgent - INFO - Saving rating feedback for message test_message_1
+2025-08-04 17:34:22,545 - PersonalAgent - INFO - Rating feedback saved successfully
+2025-08-04 17:34:22,546 - PersonalAgent - INFO - Saving thumbs feedback for message test_message_2
+2025-08-04 17:34:22,549 - PersonalAgent - INFO - Thumbs feedback saved successfully
+2025-08-04 17:34:22,550 - PersonalAgent - INFO - Saving rating feedback for message test_message_3
+2025-08-04 17:34:22,552 - PersonalAgent - INFO - Rating feedback saved successfully
+2025-08-04 17:34:33,250 - PersonalAgent - INFO - Initializing OpenRouter provider
+2025-08-04 17:34:33,285 - PersonalAgent - INFO - Generating response with 2 messages
+2025-08-04 17:34:33,285 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 17:34:37,242 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 17:34:37,242 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 17:49:38,617 - PersonalAgent - INFO - Initializing OpenAI provider
+2025-08-04 17:49:38,617 - PersonalAgent - ERROR - Exception in LLM provider initialization: OpenAIError: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-08-04 17:50:25,712 - PersonalAgent - INFO - Initializing OpenAI provider
+2025-08-04 17:50:25,712 - PersonalAgent - ERROR - Exception in LLM provider initialization: OpenAIError: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-08-04 17:50:25,714 - PersonalAgent - INFO - Initializing OpenAI provider
+2025-08-04 17:50:25,714 - PersonalAgent - ERROR - Exception in LLM provider initialization: OpenAIError: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-08-04 17:50:25,715 - PersonalAgent - INFO - Initializing OpenAI provider
+2025-08-04 17:50:25,715 - PersonalAgent - ERROR - Exception in LLM provider initialization: OpenAIError: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-08-04 17:50:25,732 - PersonalAgent - INFO - Initializing OpenAI provider
+2025-08-04 17:50:25,733 - PersonalAgent - ERROR - Exception in LLM provider initialization: OpenAIError: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-08-04 17:50:25,733 - PersonalAgent - INFO - Initializing OpenAI provider
+2025-08-04 17:50:25,733 - PersonalAgent - ERROR - Exception in LLM provider initialization: OpenAIError: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-08-04 17:53:07,940 - PersonalAgent - INFO - AgentManager initialized
+2025-08-04 17:53:07,941 - PersonalAgent - INFO - Creating agent for user: test_user_1
+2025-08-04 17:53:07,941 - PersonalAgent - INFO - Initializing OpenAI provider
+2025-08-04 17:53:07,941 - PersonalAgent - ERROR - Exception in LLM provider initialization: OpenAIError: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-08-04 17:55:08,133 - PersonalAgent - INFO - AgentManager initialized
+2025-08-04 17:55:08,133 - PersonalAgent - INFO - Creating agent for user: test_user_1
+2025-08-04 17:55:08,134 - PersonalAgent - INFO - Initializing OpenAI provider
+2025-08-04 17:55:08,134 - PersonalAgent - ERROR - Exception in LLM provider initialization: OpenAIError: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-08-04 17:56:44,151 - PersonalAgent - INFO - AgentManager initialized
+2025-08-04 17:56:44,151 - PersonalAgent - INFO - Creating agent for user: test_user_1
+2025-08-04 17:56:44,152 - PersonalAgent - INFO - Initializing OpenAI provider
+2025-08-04 17:56:44,152 - PersonalAgent - ERROR - Exception in LLM provider initialization: OpenAIError: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-08-04 17:56:44,153 - PersonalAgent - INFO - Initializing OpenAI provider
+2025-08-04 17:56:44,153 - PersonalAgent - ERROR - Exception in LLM provider initialization: OpenAIError: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-08-04 17:56:44,154 - PersonalAgent - INFO - Agent started for user: test_user_1
+2025-08-04 17:56:44,154 - PersonalAgent - INFO - Creating agent for user: test_user_2
+2025-08-04 17:56:44,155 - PersonalAgent - INFO - Initializing OpenAI provider
+2025-08-04 17:56:44,155 - PersonalAgent - ERROR - Exception in LLM provider initialization: OpenAIError: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-08-04 17:56:44,156 - PersonalAgent - INFO - Initializing OpenAI provider
+2025-08-04 17:56:44,156 - PersonalAgent - ERROR - Exception in LLM provider initialization: OpenAIError: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-08-04 17:56:44,158 - PersonalAgent - INFO - Removing agent for user: test_user_2
+2025-08-04 17:56:44,158 - PersonalAgent - INFO - Stopping all agents
+2025-08-04 17:56:44,158 - PersonalAgent - INFO - Removing agent for user: test_user_1
+2025-08-04 17:56:44,158 - PersonalAgent - INFO - All agents stopped
+2025-08-04 17:56:44,159 - PersonalAgent - INFO - AgentManager initialized
+2025-08-04 17:56:44,159 - PersonalAgent - INFO - Shutting down AgentManager
+2025-08-04 17:56:44,159 - PersonalAgent - INFO - Stopping all agents
+2025-08-04 17:56:44,159 - PersonalAgent - INFO - All agents stopped
+2025-08-04 17:56:44,159 - PersonalAgent - INFO - AgentManager shutdown complete
+2025-08-04 18:06:43,028 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 18:06:43,028 - PersonalAgent - INFO - Discovering providers in: /home/arthur/projects/empresa/src/personal_agent/llm/providers
+2025-08-04 18:06:43,028 - PersonalAgent - INFO - Discovered provider: openai
+2025-08-04 18:06:43,028 - PersonalAgent - INFO - Discovered provider: openrouter
+2025-08-04 18:06:43,028 - PersonalAgent - INFO - Loading provider: openai
+2025-08-04 18:06:43,029 - PersonalAgent - ERROR - Exception in Loading provider openai: ImportError: attempted relative import with no known parent package
+2025-08-04 18:06:43,029 - PersonalAgent - ERROR - Failed to load provider openai: attempted relative import with no known parent package
+2025-08-04 18:06:43,029 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 18:06:43,029 - PersonalAgent - ERROR - Exception in Loading provider openrouter: ImportError: attempted relative import with no known parent package
+2025-08-04 18:06:43,029 - PersonalAgent - ERROR - Failed to load provider openrouter: attempted relative import with no known parent package
+2025-08-04 18:06:43,029 - PersonalAgent - INFO - Discovering providers in: /home/arthur/projects/empresa/src/personal_agent/llm/providers
+2025-08-04 18:06:43,029 - PersonalAgent - INFO - Discovered provider: openai
+2025-08-04 18:06:43,029 - PersonalAgent - INFO - Discovered provider: openrouter
+2025-08-04 18:06:43,029 - PersonalAgent - INFO - Loading provider: openai
+2025-08-04 18:06:43,029 - PersonalAgent - ERROR - Exception in Loading provider openai: ImportError: attempted relative import with no known parent package
+2025-08-04 18:06:43,029 - PersonalAgent - ERROR - Failed to load provider openai: attempted relative import with no known parent package
+2025-08-04 18:06:43,029 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 18:06:43,029 - PersonalAgent - ERROR - Exception in Loading provider openrouter: ImportError: attempted relative import with no known parent package
+2025-08-04 18:06:43,029 - PersonalAgent - ERROR - Failed to load provider openrouter: attempted relative import with no known parent package
+2025-08-04 18:06:43,029 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 18:06:43,029 - PersonalAgent - INFO - Loading provider: openai
+2025-08-04 18:06:43,029 - PersonalAgent - ERROR - Exception in Loading provider openai: ImportError: attempted relative import with no known parent package
+2025-08-04 18:06:43,030 - PersonalAgent - ERROR - Failed to load provider openai: attempted relative import with no known parent package
+2025-08-04 18:13:20,356 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 18:13:20,356 - PersonalAgent - INFO - Discovering providers in: /home/arthur/projects/empresa/src/personal_agent/llm/providers
+2025-08-04 18:13:20,356 - PersonalAgent - INFO - Discovered provider: openai
+2025-08-04 18:13:20,356 - PersonalAgent - INFO - Discovered provider: openrouter
+2025-08-04 18:13:20,356 - PersonalAgent - INFO - Loading provider: openai
+2025-08-04 18:13:20,356 - PersonalAgent - INFO - Built-in provider openai loaded successfully
+2025-08-04 18:13:20,356 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 18:13:20,356 - PersonalAgent - INFO - Built-in provider openrouter loaded successfully
+2025-08-04 18:13:20,356 - PersonalAgent - INFO - Discovering providers in: /home/arthur/projects/empresa/src/personal_agent/llm/providers
+2025-08-04 18:13:20,356 - PersonalAgent - INFO - Discovered provider: openai
+2025-08-04 18:13:20,356 - PersonalAgent - INFO - Discovered provider: openrouter
+2025-08-04 18:13:20,356 - PersonalAgent - INFO - Provider openai already loaded
+2025-08-04 18:13:20,356 - PersonalAgent - INFO - Provider openrouter already loaded
+2025-08-04 18:13:20,356 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 18:13:20,356 - PersonalAgent - INFO - Loading provider: openai
+2025-08-04 18:13:20,356 - PersonalAgent - INFO - Built-in provider openai loaded successfully
+2025-08-04 18:17:34,234 - PersonalAgent - INFO - LLM cache initialized with default TTL: 5s
+2025-08-04 18:17:34,234 - PersonalAgent - INFO - Response cached with key: acc9d933..., TTL: 10s
+2025-08-04 18:17:34,234 - PersonalAgent - INFO - Cache hit for key: acc9d933...
+2025-08-04 18:17:34,235 - PersonalAgent - INFO - Response cached with key: acc9d933..., TTL: 1s
+2025-08-04 18:17:36,235 - PersonalAgent - INFO - Cache miss (expired) for key: acc9d933...
+2025-08-04 18:17:36,235 - PersonalAgent - INFO - Cache cleared
+2025-08-04 18:17:36,235 - PersonalAgent - INFO - Response cached with key: acc9d933..., TTL: 10s
+2025-08-04 18:17:36,235 - PersonalAgent - INFO - Response cached with key: 4c27807b..., TTL: 10s
+2025-08-04 18:17:36,235 - PersonalAgent - INFO - LLM cache initialized with default TTL: 3600s
+2025-08-04 18:17:36,235 - PersonalAgent - INFO - Response cached with key: acc9d933..., TTL: 3600s
+2025-08-04 18:17:36,235 - PersonalAgent - INFO - Cache hit for key: acc9d933...
+2025-08-04 18:17:36,235 - PersonalAgent - INFO - Response cached with key: acc9d933..., TTL: 1s
+2025-08-04 18:17:38,235 - PersonalAgent - INFO - Response cached with key: 4c27807b..., TTL: 10s
+2025-08-04 18:17:38,235 - PersonalAgent - INFO - Cache cleared
+2025-08-04 18:43:11,358 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 18:43:11,358 - PersonalAgent - INFO - Loading provider: openai
+2025-08-04 18:43:11,358 - PersonalAgent - INFO - Built-in provider openai loaded successfully
+2025-08-04 18:43:11,358 - PersonalAgent - INFO - Initializing openai provider via plugin system
+2025-08-04 18:43:11,358 - PersonalAgent - ERROR - Exception in LLM provider initialization: OpenAIError: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-08-04 18:44:41,300 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 18:44:41,300 - PersonalAgent - INFO - Loading provider: openai
+2025-08-04 18:44:41,300 - PersonalAgent - INFO - Built-in provider openai loaded successfully
+2025-08-04 18:44:41,300 - PersonalAgent - INFO - Initializing openai provider via plugin system
+2025-08-04 18:44:41,300 - PersonalAgent - ERROR - Exception in LLM provider initialization: OpenAIError: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-08-04 19:17:45,731 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 19:17:45,731 - PersonalAgent - INFO - Loading provider: openai
+2025-08-04 19:17:45,731 - PersonalAgent - INFO - Built-in provider openai loaded successfully
+2025-08-04 19:17:45,731 - PersonalAgent - INFO - Initializing openai provider via plugin system
+2025-08-04 19:17:45,731 - PersonalAgent - ERROR - Exception in LLM provider initialization: OpenAIError: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-08-04 19:17:45,732 - PersonalAgent - INFO - Provider openai already loaded
+2025-08-04 19:17:45,732 - PersonalAgent - INFO - Initializing openai provider via plugin system
+2025-08-04 19:17:45,732 - PersonalAgent - ERROR - Exception in LLM provider initialization: OpenAIError: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-08-04 19:17:45,734 - PersonalAgent - INFO - Provider openai already loaded
+2025-08-04 19:17:45,734 - PersonalAgent - INFO - Initializing openai provider via plugin system
+2025-08-04 19:17:45,734 - PersonalAgent - ERROR - Exception in LLM provider initialization: OpenAIError: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-08-04 19:17:45,735 - PersonalAgent - INFO - Provider openai already loaded
+2025-08-04 19:17:45,735 - PersonalAgent - INFO - Initializing openai provider via plugin system
+2025-08-04 19:17:45,735 - PersonalAgent - ERROR - Exception in LLM provider initialization: OpenAIError: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-08-04 19:17:45,735 - PersonalAgent - INFO - Provider openai already loaded
+2025-08-04 19:17:45,735 - PersonalAgent - INFO - Initializing openai provider via plugin system
+2025-08-04 19:17:45,735 - PersonalAgent - ERROR - Exception in LLM provider initialization: OpenAIError: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-08-04 19:20:19,902 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 19:20:19,902 - PersonalAgent - INFO - Loading provider: openai
+2025-08-04 19:20:19,902 - PersonalAgent - INFO - Built-in provider openai loaded successfully
+2025-08-04 19:20:19,902 - PersonalAgent - INFO - Initializing openai provider via plugin system
+2025-08-04 19:20:19,902 - PersonalAgent - ERROR - Exception in LLM provider initialization: OpenAIError: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-08-04 19:20:19,904 - PersonalAgent - INFO - Provider openai already loaded
+2025-08-04 19:20:19,904 - PersonalAgent - INFO - Initializing openai provider via plugin system
+2025-08-04 19:20:19,904 - PersonalAgent - ERROR - Exception in LLM provider initialization: OpenAIError: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-08-04 19:20:19,905 - PersonalAgent - INFO - Provider openai already loaded
+2025-08-04 19:20:19,905 - PersonalAgent - INFO - Initializing openai provider via plugin system
+2025-08-04 19:20:19,905 - PersonalAgent - ERROR - Exception in LLM provider initialization: OpenAIError: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-08-04 19:20:19,907 - PersonalAgent - INFO - Provider openai already loaded
+2025-08-04 19:20:19,907 - PersonalAgent - INFO - Initializing openai provider via plugin system
+2025-08-04 19:20:19,907 - PersonalAgent - ERROR - Exception in LLM provider initialization: OpenAIError: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-08-04 19:20:19,907 - PersonalAgent - INFO - Provider openai already loaded
+2025-08-04 19:20:19,907 - PersonalAgent - INFO - Initializing openai provider via plugin system
+2025-08-04 19:20:19,907 - PersonalAgent - ERROR - Exception in LLM provider initialization: OpenAIError: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-08-04 20:30:29,046 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 20:30:29,046 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 20:30:29,047 - PersonalAgent - INFO - Built-in provider openrouter loaded successfully
+2025-08-04 20:30:29,047 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 20:30:29,086 - PersonalAgent - INFO - LLM cache initialized with default TTL: 3600s
+2025-08-04 20:30:29,087 - PersonalAgent - INFO - Cache miss (not found) for key: fff128a2...
+2025-08-04 20:30:29,087 - PersonalAgent - INFO - Generating response with 2 messages
+2025-08-04 20:30:29,087 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 20:30:42,764 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 20:30:42,764 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 20:30:42,764 - PersonalAgent - INFO - Response cached with key: fff128a2..., TTL: 3600s
+2025-08-04 20:31:20,638 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 20:31:20,638 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 20:31:20,638 - PersonalAgent - INFO - Built-in provider openrouter loaded successfully
+2025-08-04 20:31:20,639 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 20:31:20,683 - PersonalAgent - INFO - LLM cache initialized with default TTL: 3600s
+2025-08-04 20:31:20,683 - PersonalAgent - INFO - Cache miss (not found) for key: 956ac88b...
+2025-08-04 20:31:20,683 - PersonalAgent - INFO - Generating response with 2 messages
+2025-08-04 20:31:20,683 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 20:31:23,437 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 20:31:23,437 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 20:31:23,437 - PersonalAgent - INFO - Response cached with key: 956ac88b..., TTL: 3600s
+2025-08-04 20:31:23,438 - PersonalAgent - INFO - Provider openrouter already loaded
+2025-08-04 20:31:23,438 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 20:31:23,464 - PersonalAgent - INFO - Cache miss (not found) for key: 492538dc...
+2025-08-04 20:31:23,465 - PersonalAgent - INFO - Generating response with 2 messages
+2025-08-04 20:31:23,465 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 20:31:25,967 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 20:31:25,967 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 20:31:25,967 - PersonalAgent - INFO - Response cached with key: 492538dc..., TTL: 3600s
+2025-08-04 20:31:25,967 - PersonalAgent - INFO - Cache miss (not found) for key: 167fd695...
+2025-08-04 20:31:25,967 - PersonalAgent - INFO - Generating response with 4 messages
+2025-08-04 20:31:25,967 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 20:31:28,776 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 20:31:28,776 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 20:31:28,776 - PersonalAgent - INFO - Response cached with key: 167fd695..., TTL: 3600s
+2025-08-04 20:34:05,858 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 20:34:05,858 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 20:34:05,858 - PersonalAgent - INFO - Built-in provider openrouter loaded successfully
+2025-08-04 20:34:05,858 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 20:34:05,900 - PersonalAgent - INFO - LLM cache initialized with default TTL: 3600s
+2025-08-04 20:48:31,002 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 20:48:31,002 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 20:48:31,002 - PersonalAgent - INFO - Built-in provider openrouter loaded successfully
+2025-08-04 20:48:31,002 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 20:48:31,002 - PersonalAgent - ERROR - Exception in LLM provider initialization: OpenAIError: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-08-04 20:48:31,002 - PersonalAgent - WARNING - Could not initialize LLM client: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-08-04 20:48:38,062 - PersonalAgent - ERROR - Exception in LLM response generation: LLMException: LLM client not initialized
+2025-08-04 20:49:12,190 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 20:49:12,190 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 20:49:12,190 - PersonalAgent - INFO - Built-in provider openrouter loaded successfully
+2025-08-04 20:49:12,190 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 20:49:12,227 - PersonalAgent - INFO - LLM cache initialized with default TTL: 3600s
+2025-08-04 20:49:13,719 - PersonalAgent - ERROR - Exception in Error retrieving recent conversation turns: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 20:49:13,719 - PersonalAgent - INFO - Generating LLM response with 2 messages
+2025-08-04 20:49:13,719 - PersonalAgent - INFO - Cache miss (not found) for key: 595faeba...
+2025-08-04 20:49:13,720 - PersonalAgent - INFO - Generating response with 3 messages
+2025-08-04 20:49:13,720 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 20:49:21,737 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 20:49:21,737 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 20:49:21,738 - PersonalAgent - INFO - Response cached with key: 595faeba..., TTL: 3600s
+2025-08-04 20:49:21,738 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 20:49:32,590 - PersonalAgent - INFO - Saving rating feedback for message df73e618-df20-46e0-be55-b62b9642314e
+2025-08-04 20:49:32,596 - PersonalAgent - INFO - Rating feedback saved successfully
+2025-08-04 20:49:38,536 - PersonalAgent - ERROR - Exception in Error retrieving recent conversation turns: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 20:49:38,536 - PersonalAgent - INFO - Generating LLM response with 4 messages
+2025-08-04 20:49:38,536 - PersonalAgent - INFO - Cache miss (not found) for key: a62380a0...
+2025-08-04 20:49:38,536 - PersonalAgent - INFO - Generating response with 5 messages
+2025-08-04 20:49:38,536 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 20:49:50,121 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 20:49:50,121 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 20:49:50,121 - PersonalAgent - INFO - Response cached with key: a62380a0..., TTL: 3600s
+2025-08-04 20:49:50,121 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 20:50:44,254 - PersonalAgent - ERROR - Exception in Error retrieving recent conversation turns: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 20:50:44,254 - PersonalAgent - INFO - Generating LLM response with 6 messages
+2025-08-04 20:50:44,254 - PersonalAgent - INFO - Cache miss (not found) for key: 14d13ac4...
+2025-08-04 20:50:44,254 - PersonalAgent - INFO - Generating response with 7 messages
+2025-08-04 20:50:44,254 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 20:50:47,750 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 20:50:47,751 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 20:50:47,751 - PersonalAgent - INFO - Response cached with key: 14d13ac4..., TTL: 3600s
+2025-08-04 20:50:47,751 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 20:50:54,037 - PersonalAgent - ERROR - Exception in Error retrieving recent conversation turns: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 20:50:54,037 - PersonalAgent - INFO - Generating LLM response with 8 messages
+2025-08-04 20:50:54,037 - PersonalAgent - INFO - Cache miss (not found) for key: 8ea40158...
+2025-08-04 20:50:54,037 - PersonalAgent - INFO - Generating response with 9 messages
+2025-08-04 20:50:54,037 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 20:50:56,493 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 20:50:56,493 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 20:50:56,493 - PersonalAgent - INFO - Response cached with key: 8ea40158..., TTL: 3600s
+2025-08-04 20:50:56,493 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 21:01:28,260 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 21:01:28,260 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 21:01:28,260 - PersonalAgent - INFO - Built-in provider openrouter loaded successfully
+2025-08-04 21:01:28,260 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 21:01:28,298 - PersonalAgent - INFO - LLM cache initialized with default TTL: 3600s
+2025-08-04 21:01:36,351 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVWRna3JUUkFFWkVOOGFrVmpjNkVETUxWeE5jLTRjVkU3WjBzbGFrbV9zTWJrTF90Wk5BMGFNeGZvdFJUaVotMkZ3Y0ZhVFFHUnBHdmMtbFhTdF9SdnlCbE9RaXdaSEV0TlRHZ0wwWmU3emtnUUpuQVJ3VkVUT0RIRVhwdHgtd3F4R3NqWWgtdWhrSEh5dXMtSXl0cTZpT2gyMTJxVC16N2o4MEVtQ1BfbHhRQTNsVGx2dUp1a3dEdURYc1ZPQnhoVUpMNmlsY3cwYVN4NTBRVGtmQmFsTEpSMlhYcjR5TUlZZ1FjWUhhYlpha19nMzFDWGpRUWs2MVN2eWhvUTBBanllRER4MktGaW9YR0VuUklxSXhxRUJTX0p6NmFiV0p6cVJzWmpzb0hiX0g2S1RhSkdvdmJseTRNVWFxZnhlay0zc0Q2a2V3cmlMZzZyU1JWWjhzcUJXTFVKYmN1TXlFQmZWYkZvZUhaRTJhZFhHTGFGWEpFSDd2UHNSM0lnTk1GeV80TUJfcDZFTlJKMGZkeW91dGpteWZMdGlkOUsweGd3OFhUd0VuNmQ0eWlseWhITlZqc290ZGxzRUhmUlN3VWN2cndiZXNLeUxpWThPY1c4cTF4TU5FWUd1WmVPRVpSSWNtUzMybGNYaUd5UE0taEpWLUF5WkFYZm5YUG8wN05VVXM=: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 21:01:36,351 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVWRYbG1BdjZyOEFCZVJMa2xTVkRCZ2JNVmotWWpjTEFPOERUbkpvLVBNb1lNUjZXU1BRd1NPOUVtYVBOelRsdEtsbGh0eVZKenZCRHE0cTZWNXlwTm44WGQta01BR2Z6cHd5LTEzUzdSSXpWV3U3Y0NRdExpSnZDbXFrbGpqdkpyRGtZY1lnMUNIUnI2TlRfaXZURDg4UDNRcnhjMGZrQmF2S2NpR3ZTZ2QwRXZmN2kyTTZGUE9JYmVIVEdVQmphSkFQUm5LcmNJcURnQmNWWEROZVkxZUp3ZXlqZ09Db0dQTE1rRWthOXVJbXdHY1JhOV9meGdPYnl2ZDlpN1Q0YUwyT2F5Sk5hcUY2LVNmR2FJbzZkYTdEV05rQnQzemJka3V4RUwyc0N6ZkZqYWFZSkpkQmhCUUp2Ri1QRXlvcXFOWnJ3UUt5bFVHVmJ6R3JkQmRTdl9RUXA4UTVRREpMN2FFR0ZKb1R4MWNaTmVYZ0FmUFBFeTVzUmFQZUhRSF90VV95SnRjTFlUZG9taTd5bmJwTEhIc3BHUVpnbjFyRjBaUnU1WjcxdHZnSl9OX3c4U1E4bmhicmtwcG91ZDZrNjNJS3AtNWh3dVNydFRqZTdWQUZFSl9HUXRGNXlTV0NWRER4LUV2cmpTNzNsY0hSQmdQdnZEYVlxcVpyR2JJZ2xGRF9QSXR1LVVtZFkwMVhFYWoyNHI1UmgyLXZGc3Q4ZWExeGxHN1dnNENkMlFVS3dsM3BJQ01MXzZIekFBMEdjNmt3: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 21:01:36,351 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVWNlTTBxMTRVZFE4Y3MtdDBwQVBweWU3ajRCODNzOWpBc3ZfMGF1Nzl3eDRUOFBqcUVDcnQxcnFxRkxBNThTMExWOHE2blYxQ25VM3FZMHNRaVJCZXhtWFctNnFRcWRlekx0QUlBMnIwSXFETzFRWm9tdF9ZdEQxN0hibkp6YWZKYXZiaHctc2o1XzZaNXNsXzJnaDRJNVJjVEJJZjhQTHo4VVBtQ1J5alV0VWczc3RlSnB4Mmd1Q3BVTnp4ZGZqQ1dTLVZfX2NzcFY0cUZ0NnQ3WXFtRzhya3cwZUxPdFhqSWVmOUM4ZUhvdXVSanRRdXdCNmZacmZ3dmZndmd2cS04Uzh0bUV1bllRdkFjZEhrejFqNWJFMDhrTEpwQWs0WDRiNGJ3MklxUUR6VnNFbmdCaWlmaUhtSEEzbzhxeGtLeFF2SmpBUXlmLUFRcm1JX2dLNHk4X3ppUEF3aWFlUnVveDB5WTdDU2VyNHhSTzRQWTBhVng5bjNhS1g1WThCcGo3WU1rd0dKYTV4cktPXzJIcDlRZXlZa0JOZ2Zva3pIRUZLRzQyYnExM3R5U3FHV1NXbGxOZUJqU2Fjc1drbEFqQ1pVOTVHcXNMZU1mc0FkVkdmVV9nbzdhSTFxcFdxTVM3ZmM5NUU3SXMyaGU5NXVSX1Vfc2VrQWtxZ3dLdnhVQVdNM0k4STNrdUVVaThEczV5RWFLWTZQQUk3SXFpUjNuN3UwX0h2NHBhSlNwdTJKWUZuOFFoT1FfRHAyWDRXdmxSSGlhX1pRMzJlQWQtSFZlWFdDY1Q5aWpLaHdieDFaQlRSWXlwSWdhOWU0ZGpYVFFfc052anZwMlBkeDBnLWltalp0Qk5mSm05ZkxCeGU0VklxS2hSNENoUnRUQnoyZE5BWVNvY0dEZ3l6emxjejA1SUJjOWs3ZlJURmJCZlB6WTcyTG1vNEdaOHJPSzkxaEwteU1BU2tta1VZeXgxWWNLeUZYaFVBRlBoRlNWOTBZS0ZkMl9RUkNneVAyVC13dGRPcy16V0ZuRVVXNDd3Z2dmbV9UZnNmVkFsOWdMem4zMHo0MEtGVmNnYllPM0RBQ2JyR3E2NW9sZzFXWHRvMHNVUmk1ZkU2eHFremdXd2x3a2p2WWM4N3BfQUtYMWIxX2R2ak0xZEE4YXdpb29LOWRjTzRrQ19uWkFCTlVja0pYdXhiUW5RZG9VOTNOZ0pEQjNpaDdxdkJnRGkyTjdrZDg1aEdDNG4teGZTME9OX2NMQjBmclUwd2FkakRScHlpcHpFMEJKdTdGSTdBRkxiN2tPZE9tOWQ0YTMwSUdhWnI2QllLRENQZVY0UVdlaV9OSnpBeVd3cG1NU1lHaE0yc2JaN3JoMlZPTDZnc1RtQm9BM05uSVRnd3NxaTF2YXFsdW1ndll4UDA4WWpaSFdKZWRXMUlxMk9CYmhJRVdWckU0Q3d0Vm5PS0FOcUI3NUNIbTJVTzZOaFR2ZEowYXF4VGVPUkhYRTJ5dFZ1b3FLdVYtLS14Y3otckc2Q0dodTNreGhVRHlBcWxsZldhQ3JEa2FkSEVKaGtpczF5dlR3NDhmazFLVlJGQktJRHR4ZEVxcE9vOWtvRFpUN0haUmx1VlFOMA==: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 21:01:36,351 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVWNCMjgwVkROZkhuSWdJVnlfaWdISWZFdWFlS2s2VFJiOHlEUXZWMGpoUWVhQldDQTFscHY2bEh1NFhLZDVVV0x1VTkzWDk1Rkdua0Zlb1BHdVlzZmY2c1ZNRnRhRjVMTk1UNlUwSElMc21ReTdZamdIeUhLVENIWFlWaWZiVFhFR05EbW1xazYyWnNGcS16Wkc1ZWwtekR2ai1Jcnd2aDladEZSaS04ZHBTYkJtdnNtdmVqbXBuSWIzd2JHYTM0UmVXVnZCUW5yMElMak04Q1B2c1dxZGlVa3Z3Y1ZzQ2pUeElIZnNkenowTktjYUQ0Wm8weE9lX2RPeDM1am1SX1lWZkR1RWVQZFdFVWZOdm1qLWpEX2lKb0pwRUczc3dTRGMyb3VfTGlrT2xhd05hdlg4ZEY0ZHVicFZabTRGQlJaTjhacHgzWk5NODhleG5yRkE2YVpGWFI4ZmgxSEtmTzVnU2FWdFVqWFdldXZxeUN6VWc0a3ZOcGkyMGtkSDRGcjlMOVFBYjZMZ3hHMERnRy1NLTR4WnVsbnQ3Nk00MldfRFZnZ3YzcW5NVENGbG5EblEzU05NTEhXVmpzUzdHUmV5QjYxV09ycGQ4TEFLUTd3UW84anVIOUE9PQ==: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 21:01:36,351 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVWJXTVZXdW9BblNpRkQ2Z2VpTjlzR3ZQbXpCeUVVQlRJZFl6WVNxTWV1a0tnMTh0QUdPNDdIelItUTk0WXJxNlBfUlVYRmNpMHNnd2NMX3MwWnlUT0o5YzlBb2NpdERNNWNEblpIWUFJZnNabGd2OWtKWGZwQTRWZlh3MzlnMzNINGRkclhlcG9rREF6alBEV2pUTkkzY2t1OWUzQUVNeU9zdG1rY2xwOV9TVEs4bllMeHplcXRzdFNndFdyaXI2YURZMGcxODlVallJVWpVMmV6Nm11ZWNETnpfQzZCUUx0VWhncVZXRmMxRUtXUFFyWUstYjgzaXhzRFJtdllfeDRPWVlGMHM5bnh3XzhsZ2FvMkpsUFdtNVNQbTJZQnRraUlFaUJ2REp5VFJpMTVzWUplUkJacHc4ekpPVVc1VEotRDBYZEJEVk9Sb0QxZml1QUpremt6anA1WEVHZlc5QXVzMnU1cDhOcUUteUYwRW9tWTRoaHVnRVNhMWszMjBuS096QkY0YVl5T1F3RGV4c2ZHMlQwc2J3bHhNSm5WWDdyeUNRSll2VG85YXBQaTNzb2p1R1RoUEE0YXdaSGF6UG43ZGNjWlMyQWxUWVFCQjk3ZDcyUzFEV3dVbWEwVzhYcFFoUHMzdUhJRXFYb256d1E4QUpxck9udU1ZcnFid2E3NEM5ZWk0UHptZ215QlliakJtaE9FMGZvVHQ5ZGxMMVV4M3hDdG5CSDIzaVVNPQ==: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 21:01:36,351 - PersonalAgent - INFO - Generating LLM response with 3 messages
+2025-08-04 21:01:36,351 - PersonalAgent - INFO - Cache miss (not found) for key: 6d431490...
+2025-08-04 21:01:36,351 - PersonalAgent - INFO - Generating response with 3 messages
+2025-08-04 21:01:36,351 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 21:01:39,706 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 21:01:39,706 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 21:01:39,706 - PersonalAgent - INFO - Response cached with key: 6d431490..., TTL: 3600s
+2025-08-04 21:01:39,706 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 21:04:10,812 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rU1JseVZ5T1M5VnFITkxmQTZYUHRtdlI4Z0VoZW9Dc19uLWpyVHp1QUFRblJCUGlIM29OSXJLT3Ryd3hUMDd0bmZrWjcyLXFNdURLMGVhQzR2cnJDdXFWYjNEV0RqTndneGFEQTNRQmtoY2FpSGpCMDRTeDZpUUVlZzYxOEdPUnZWYzZKeXJOTjZ3SFdYNGRfcGRFR2d4dGYyS1otQVdjaW1RdTkwMWRwR1Y3dF9PRVM4VmZoNzQ5QnJXN2xMRy1rNzZUUG56LTVVaW43aGV5ZjhLUDRaUk4xMUJqNy0tNEFxUVE1a2x0Q0R6dlpOc0RuQUMtdnVJNldibEdfRElNd0MyM3RuSDJXRXhDeHBXZUM3QlhiMHQ1V0thNXg3Zng0RnpyNFpWZUR3OTIyY1luNkFULXVhejVIbUxfMDNmNzdsSFVzZVNBSUVVbXBrQ1E4T25WcEFCd0V5V0lNUnpXNkdBT2Vkbi1OUW5UZXFjakRWMzI0NFRUX2hSMVloSWhPNjhQRlZwaC1kczI0RUNXamlKS2JYd3Z0U0prckFMbF85VXp3VVl2Q0FvZXgtNUZIYlc2OWtzMlVXQ045bG9xR2tiSWlkMVc0SkdhcUVTc1BlNjA5NnJ6bUlrNGw3dU9LTEpyYUg5Qjhtc1lpTTZWSkpQaW5CcDBDbmxmSjZHTGpPRVk=: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 21:05:25,799 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 21:05:25,799 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 21:05:25,799 - PersonalAgent - INFO - Built-in provider openrouter loaded successfully
+2025-08-04 21:05:25,799 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 21:05:25,838 - PersonalAgent - INFO - LLM cache initialized with default TTL: 3600s
+2025-08-04 21:05:30,757 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVW5qX21GYVpmT2ZTZnRFODRPR0dmZXMxeXRVaDVIQjk3OUxLcVBVcmFwUElzWk92UmhsdEZhREJJZ1FjY0RvMmFhR2NYMUsyM3Rycno4Y2w0c09LQ01Id0lPVmZzazg3aFYzSTNKNDFqZUdFXzRlUTZkdVRvZVh2UVU0OGItUk1GYXdkQmpBR0JYUkZ2TURZLWZIU1V6THFkQzZHcktJR3BrTVZrUHA1ZUdxVTdKc25lNEJiR0RUalIzLXMzR1RpbEg3ZVo0SzFVcGl1V1NEbDVybHhRXzl3V2ZkN1k3SlNpV054Q2pxdHV4WlIzamNybEY1emZiTE91Y3lBOTF3N0RwVUdITHVJbTdYeHR6NGlHVVVLSDJ0WlplbnJCLVRKbGJSUnE3R0xxWEFMdUdPMlI1OE5WckRZVFlVT0FjWV84bXZUX25SbE1QSXFaamQxT21XMEliYmJPWDQxcFNnSzZuMlJNWGl2T21PNjVqUzMxOUMyYlZIRUhJWE01ZkZZMm9ILUYyUlhoTHEyd3RFT2dHeDF5bllxQnZxRHJmSVNVUHZGNEpDdzh2clNpOW1OTUpSNFZIRENMdzFNY0x5QXdGU1FiY2JCdUdIQ2NMTGpXOGNSWDdfYU1KbGJJX21melFPRWs2a0pUTmtCWXFMckk5N3JKZ04xLW5EeF9SdDFCMXlZMkZEd3NpOENRWmlaX043UGJ2QUZoTEoxU3hyanZyUnRraFBJN25MYWlzSFBnRGtQcFNoTGJKVTN3bjdKN3hIeWFFakhvRFdZV1F4b1hKS2JUTEh6OS1JTVlLbE51VWVqNXNSc1FxcEJhWmN1eFA2SVZ4WHViemVEdGxvZzg0Z3g4bWhneDhNQnJYcFNydmg4M1RZUWc9PQ==: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 21:05:30,757 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVWRna3JUUkFFWkVOOGFrVmpjNkVETUxWeE5jLTRjVkU3WjBzbGFrbV9zTWJrTF90Wk5BMGFNeGZvdFJUaVotMkZ3Y0ZhVFFHUnBHdmMtbFhTdF9SdnlCbE9RaXdaSEV0TlRHZ0wwWmU3emtnUUpuQVJ3VkVUT0RIRVhwdHgtd3F4R3NqWWgtdWhrSEh5dXMtSXl0cTZpT2gyMTJxVC16N2o4MEVtQ1BfbHhRQTNsVGx2dUp1a3dEdURYc1ZPQnhoVUpMNmlsY3cwYVN4NTBRVGtmQmFsTEpSMlhYcjR5TUlZZ1FjWUhhYlpha19nMzFDWGpRUWs2MVN2eWhvUTBBanllRER4MktGaW9YR0VuUklxSXhxRUJTX0p6NmFiV0p6cVJzWmpzb0hiX0g2S1RhSkdvdmJseTRNVWFxZnhlay0zc0Q2a2V3cmlMZzZyU1JWWjhzcUJXTFVKYmN1TXlFQmZWYkZvZUhaRTJhZFhHTGFGWEpFSDd2UHNSM0lnTk1GeV80TUJfcDZFTlJKMGZkeW91dGpteWZMdGlkOUsweGd3OFhUd0VuNmQ0eWlseWhITlZqc290ZGxzRUhmUlN3VWN2cndiZXNLeUxpWThPY1c4cTF4TU5FWUd1WmVPRVpSSWNtUzMybGNYaUd5UE0taEpWLUF5WkFYZm5YUG8wN05VVXM=: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 21:05:30,757 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVWRYbG1BdjZyOEFCZVJMa2xTVkRCZ2JNVmotWWpjTEFPOERUbkpvLVBNb1lNUjZXU1BRd1NPOUVtYVBOelRsdEtsbGh0eVZKenZCRHE0cTZWNXlwTm44WGQta01BR2Z6cHd5LTEzUzdSSXpWV3U3Y0NRdExpSnZDbXFrbGpqdkpyRGtZY1lnMUNIUnI2TlRfaXZURDg4UDNRcnhjMGZrQmF2S2NpR3ZTZ2QwRXZmN2kyTTZGUE9JYmVIVEdVQmphSkFQUm5LcmNJcURnQmNWWEROZVkxZUp3ZXlqZ09Db0dQTE1rRWthOXVJbXdHY1JhOV9meGdPYnl2ZDlpN1Q0YUwyT2F5Sk5hcUY2LVNmR2FJbzZkYTdEV05rQnQzemJka3V4RUwyc0N6ZkZqYWFZSkpkQmhCUUp2Ri1QRXlvcXFOWnJ3UUt5bFVHVmJ6R3JkQmRTdl9RUXA4UTVRREpMN2FFR0ZKb1R4MWNaTmVYZ0FmUFBFeTVzUmFQZUhRSF90VV95SnRjTFlUZG9taTd5bmJwTEhIc3BHUVpnbjFyRjBaUnU1WjcxdHZnSl9OX3c4U1E4bmhicmtwcG91ZDZrNjNJS3AtNWh3dVNydFRqZTdWQUZFSl9HUXRGNXlTV0NWRER4LUV2cmpTNzNsY0hSQmdQdnZEYVlxcVpyR2JJZ2xGRF9QSXR1LVVtZFkwMVhFYWoyNHI1UmgyLXZGc3Q4ZWExeGxHN1dnNENkMlFVS3dsM3BJQ01MXzZIekFBMEdjNmt3: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 21:05:30,757 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVWNlTTBxMTRVZFE4Y3MtdDBwQVBweWU3ajRCODNzOWpBc3ZfMGF1Nzl3eDRUOFBqcUVDcnQxcnFxRkxBNThTMExWOHE2blYxQ25VM3FZMHNRaVJCZXhtWFctNnFRcWRlekx0QUlBMnIwSXFETzFRWm9tdF9ZdEQxN0hibkp6YWZKYXZiaHctc2o1XzZaNXNsXzJnaDRJNVJjVEJJZjhQTHo4VVBtQ1J5alV0VWczc3RlSnB4Mmd1Q3BVTnp4ZGZqQ1dTLVZfX2NzcFY0cUZ0NnQ3WXFtRzhya3cwZUxPdFhqSWVmOUM4ZUhvdXVSanRRdXdCNmZacmZ3dmZndmd2cS04Uzh0bUV1bllRdkFjZEhrejFqNWJFMDhrTEpwQWs0WDRiNGJ3MklxUUR6VnNFbmdCaWlmaUhtSEEzbzhxeGtLeFF2SmpBUXlmLUFRcm1JX2dLNHk4X3ppUEF3aWFlUnVveDB5WTdDU2VyNHhSTzRQWTBhVng5bjNhS1g1WThCcGo3WU1rd0dKYTV4cktPXzJIcDlRZXlZa0JOZ2Zva3pIRUZLRzQyYnExM3R5U3FHV1NXbGxOZUJqU2Fjc1drbEFqQ1pVOTVHcXNMZU1mc0FkVkdmVV9nbzdhSTFxcFdxTVM3ZmM5NUU3SXMyaGU5NXVSX1Vfc2VrQWtxZ3dLdnhVQVdNM0k4STNrdUVVaThEczV5RWFLWTZQQUk3SXFpUjNuN3UwX0h2NHBhSlNwdTJKWUZuOFFoT1FfRHAyWDRXdmxSSGlhX1pRMzJlQWQtSFZlWFdDY1Q5aWpLaHdieDFaQlRSWXlwSWdhOWU0ZGpYVFFfc052anZwMlBkeDBnLWltalp0Qk5mSm05ZkxCeGU0VklxS2hSNENoUnRUQnoyZE5BWVNvY0dEZ3l6emxjejA1SUJjOWs3ZlJURmJCZlB6WTcyTG1vNEdaOHJPSzkxaEwteU1BU2tta1VZeXgxWWNLeUZYaFVBRlBoRlNWOTBZS0ZkMl9RUkNneVAyVC13dGRPcy16V0ZuRVVXNDd3Z2dmbV9UZnNmVkFsOWdMem4zMHo0MEtGVmNnYllPM0RBQ2JyR3E2NW9sZzFXWHRvMHNVUmk1ZkU2eHFremdXd2x3a2p2WWM4N3BfQUtYMWIxX2R2ak0xZEE4YXdpb29LOWRjTzRrQ19uWkFCTlVja0pYdXhiUW5RZG9VOTNOZ0pEQjNpaDdxdkJnRGkyTjdrZDg1aEdDNG4teGZTME9OX2NMQjBmclUwd2FkakRScHlpcHpFMEJKdTdGSTdBRkxiN2tPZE9tOWQ0YTMwSUdhWnI2QllLRENQZVY0UVdlaV9OSnpBeVd3cG1NU1lHaE0yc2JaN3JoMlZPTDZnc1RtQm9BM05uSVRnd3NxaTF2YXFsdW1ndll4UDA4WWpaSFdKZWRXMUlxMk9CYmhJRVdWckU0Q3d0Vm5PS0FOcUI3NUNIbTJVTzZOaFR2ZEowYXF4VGVPUkhYRTJ5dFZ1b3FLdVYtLS14Y3otckc2Q0dodTNreGhVRHlBcWxsZldhQ3JEa2FkSEVKaGtpczF5dlR3NDhmazFLVlJGQktJRHR4ZEVxcE9vOWtvRFpUN0haUmx1VlFOMA==: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 21:05:30,757 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVWNCMjgwVkROZkhuSWdJVnlfaWdISWZFdWFlS2s2VFJiOHlEUXZWMGpoUWVhQldDQTFscHY2bEh1NFhLZDVVV0x1VTkzWDk1Rkdua0Zlb1BHdVlzZmY2c1ZNRnRhRjVMTk1UNlUwSElMc21ReTdZamdIeUhLVENIWFlWaWZiVFhFR05EbW1xazYyWnNGcS16Wkc1ZWwtekR2ai1Jcnd2aDladEZSaS04ZHBTYkJtdnNtdmVqbXBuSWIzd2JHYTM0UmVXVnZCUW5yMElMak04Q1B2c1dxZGlVa3Z3Y1ZzQ2pUeElIZnNkenowTktjYUQ0Wm8weE9lX2RPeDM1am1SX1lWZkR1RWVQZFdFVWZOdm1qLWpEX2lKb0pwRUczc3dTRGMyb3VfTGlrT2xhd05hdlg4ZEY0ZHVicFZabTRGQlJaTjhacHgzWk5NODhleG5yRkE2YVpGWFI4ZmgxSEtmTzVnU2FWdFVqWFdldXZxeUN6VWc0a3ZOcGkyMGtkSDRGcjlMOVFBYjZMZ3hHMERnRy1NLTR4WnVsbnQ3Nk00MldfRFZnZ3YzcW5NVENGbG5EblEzU05NTEhXVmpzUzdHUmV5QjYxV09ycGQ4TEFLUTd3UW84anVIOUE9PQ==: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 21:05:30,757 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVWJXTVZXdW9BblNpRkQ2Z2VpTjlzR3ZQbXpCeUVVQlRJZFl6WVNxTWV1a0tnMTh0QUdPNDdIelItUTk0WXJxNlBfUlVYRmNpMHNnd2NMX3MwWnlUT0o5YzlBb2NpdERNNWNEblpIWUFJZnNabGd2OWtKWGZwQTRWZlh3MzlnMzNINGRkclhlcG9rREF6alBEV2pUTkkzY2t1OWUzQUVNeU9zdG1rY2xwOV9TVEs4bllMeHplcXRzdFNndFdyaXI2YURZMGcxODlVallJVWpVMmV6Nm11ZWNETnpfQzZCUUx0VWhncVZXRmMxRUtXUFFyWUstYjgzaXhzRFJtdllfeDRPWVlGMHM5bnh3XzhsZ2FvMkpsUFdtNVNQbTJZQnRraUlFaUJ2REp5VFJpMTVzWUplUkJacHc4ekpPVVc1VEotRDBYZEJEVk9Sb0QxZml1QUpremt6anA1WEVHZlc5QXVzMnU1cDhOcUUteUYwRW9tWTRoaHVnRVNhMWszMjBuS096QkY0YVl5T1F3RGV4c2ZHMlQwc2J3bHhNSm5WWDdyeUNRSll2VG85YXBQaTNzb2p1R1RoUEE0YXdaSGF6UG43ZGNjWlMyQWxUWVFCQjk3ZDcyUzFEV3dVbWEwVzhYcFFoUHMzdUhJRXFYb256d1E4QUpxck9udU1ZcnFid2E3NEM5ZWk0UHptZ215QlliakJtaE9FMGZvVHQ5ZGxMMVV4M3hDdG5CSDIzaVVNPQ==: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 21:05:30,758 - PersonalAgent - INFO - Generating LLM response with 3 messages
+2025-08-04 21:05:30,758 - PersonalAgent - INFO - Cache miss (not found) for key: 26977150...
+2025-08-04 21:05:30,758 - PersonalAgent - INFO - Generating response with 3 messages
+2025-08-04 21:05:30,758 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 21:05:33,750 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 21:05:33,751 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 21:05:33,751 - PersonalAgent - INFO - Response cached with key: 26977150..., TTL: 3600s
+2025-08-04 21:05:33,751 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 21:05:43,815 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVW5qX21GYVpmT2ZTZnRFODRPR0dmZXMxeXRVaDVIQjk3OUxLcVBVcmFwUElzWk92UmhsdEZhREJJZ1FjY0RvMmFhR2NYMUsyM3Rycno4Y2w0c09LQ01Id0lPVmZzazg3aFYzSTNKNDFqZUdFXzRlUTZkdVRvZVh2UVU0OGItUk1GYXdkQmpBR0JYUkZ2TURZLWZIU1V6THFkQzZHcktJR3BrTVZrUHA1ZUdxVTdKc25lNEJiR0RUalIzLXMzR1RpbEg3ZVo0SzFVcGl1V1NEbDVybHhRXzl3V2ZkN1k3SlNpV054Q2pxdHV4WlIzamNybEY1emZiTE91Y3lBOTF3N0RwVUdITHVJbTdYeHR6NGlHVVVLSDJ0WlplbnJCLVRKbGJSUnE3R0xxWEFMdUdPMlI1OE5WckRZVFlVT0FjWV84bXZUX25SbE1QSXFaamQxT21XMEliYmJPWDQxcFNnSzZuMlJNWGl2T21PNjVqUzMxOUMyYlZIRUhJWE01ZkZZMm9ILUYyUlhoTHEyd3RFT2dHeDF5bllxQnZxRHJmSVNVUHZGNEpDdzh2clNpOW1OTUpSNFZIRENMdzFNY0x5QXdGU1FiY2JCdUdIQ2NMTGpXOGNSWDdfYU1KbGJJX21melFPRWs2a0pUTmtCWXFMckk5N3JKZ04xLW5EeF9SdDFCMXlZMkZEd3NpOENRWmlaX043UGJ2QUZoTEoxU3hyanZyUnRraFBJN25MYWlzSFBnRGtQcFNoTGJKVTN3bjdKN3hIeWFFakhvRFdZV1F4b1hKS2JUTEh6OS1JTVlLbE51VWVqNXNSc1FxcEJhWmN1eFA2SVZ4WHViemVEdGxvZzg0Z3g4bWhneDhNQnJYcFNydmg4M1RZUWc9PQ==: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 21:05:43,815 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVWRna3JUUkFFWkVOOGFrVmpjNkVETUxWeE5jLTRjVkU3WjBzbGFrbV9zTWJrTF90Wk5BMGFNeGZvdFJUaVotMkZ3Y0ZhVFFHUnBHdmMtbFhTdF9SdnlCbE9RaXdaSEV0TlRHZ0wwWmU3emtnUUpuQVJ3VkVUT0RIRVhwdHgtd3F4R3NqWWgtdWhrSEh5dXMtSXl0cTZpT2gyMTJxVC16N2o4MEVtQ1BfbHhRQTNsVGx2dUp1a3dEdURYc1ZPQnhoVUpMNmlsY3cwYVN4NTBRVGtmQmFsTEpSMlhYcjR5TUlZZ1FjWUhhYlpha19nMzFDWGpRUWs2MVN2eWhvUTBBanllRER4MktGaW9YR0VuUklxSXhxRUJTX0p6NmFiV0p6cVJzWmpzb0hiX0g2S1RhSkdvdmJseTRNVWFxZnhlay0zc0Q2a2V3cmlMZzZyU1JWWjhzcUJXTFVKYmN1TXlFQmZWYkZvZUhaRTJhZFhHTGFGWEpFSDd2UHNSM0lnTk1GeV80TUJfcDZFTlJKMGZkeW91dGpteWZMdGlkOUsweGd3OFhUd0VuNmQ0eWlseWhITlZqc290ZGxzRUhmUlN3VWN2cndiZXNLeUxpWThPY1c4cTF4TU5FWUd1WmVPRVpSSWNtUzMybGNYaUd5UE0taEpWLUF5WkFYZm5YUG8wN05VVXM=: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 21:05:43,815 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVWRYbG1BdjZyOEFCZVJMa2xTVkRCZ2JNVmotWWpjTEFPOERUbkpvLVBNb1lNUjZXU1BRd1NPOUVtYVBOelRsdEtsbGh0eVZKenZCRHE0cTZWNXlwTm44WGQta01BR2Z6cHd5LTEzUzdSSXpWV3U3Y0NRdExpSnZDbXFrbGpqdkpyRGtZY1lnMUNIUnI2TlRfaXZURDg4UDNRcnhjMGZrQmF2S2NpR3ZTZ2QwRXZmN2kyTTZGUE9JYmVIVEdVQmphSkFQUm5LcmNJcURnQmNWWEROZVkxZUp3ZXlqZ09Db0dQTE1rRWthOXVJbXdHY1JhOV9meGdPYnl2ZDlpN1Q0YUwyT2F5Sk5hcUY2LVNmR2FJbzZkYTdEV05rQnQzemJka3V4RUwyc0N6ZkZqYWFZSkpkQmhCUUp2Ri1QRXlvcXFOWnJ3UUt5bFVHVmJ6R3JkQmRTdl9RUXA4UTVRREpMN2FFR0ZKb1R4MWNaTmVYZ0FmUFBFeTVzUmFQZUhRSF90VV95SnRjTFlUZG9taTd5bmJwTEhIc3BHUVpnbjFyRjBaUnU1WjcxdHZnSl9OX3c4U1E4bmhicmtwcG91ZDZrNjNJS3AtNWh3dVNydFRqZTdWQUZFSl9HUXRGNXlTV0NWRER4LUV2cmpTNzNsY0hSQmdQdnZEYVlxcVpyR2JJZ2xGRF9QSXR1LVVtZFkwMVhFYWoyNHI1UmgyLXZGc3Q4ZWExeGxHN1dnNENkMlFVS3dsM3BJQ01MXzZIekFBMEdjNmt3: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 21:05:43,815 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVWNlTTBxMTRVZFE4Y3MtdDBwQVBweWU3ajRCODNzOWpBc3ZfMGF1Nzl3eDRUOFBqcUVDcnQxcnFxRkxBNThTMExWOHE2blYxQ25VM3FZMHNRaVJCZXhtWFctNnFRcWRlekx0QUlBMnIwSXFETzFRWm9tdF9ZdEQxN0hibkp6YWZKYXZiaHctc2o1XzZaNXNsXzJnaDRJNVJjVEJJZjhQTHo4VVBtQ1J5alV0VWczc3RlSnB4Mmd1Q3BVTnp4ZGZqQ1dTLVZfX2NzcFY0cUZ0NnQ3WXFtRzhya3cwZUxPdFhqSWVmOUM4ZUhvdXVSanRRdXdCNmZacmZ3dmZndmd2cS04Uzh0bUV1bllRdkFjZEhrejFqNWJFMDhrTEpwQWs0WDRiNGJ3MklxUUR6VnNFbmdCaWlmaUhtSEEzbzhxeGtLeFF2SmpBUXlmLUFRcm1JX2dLNHk4X3ppUEF3aWFlUnVveDB5WTdDU2VyNHhSTzRQWTBhVng5bjNhS1g1WThCcGo3WU1rd0dKYTV4cktPXzJIcDlRZXlZa0JOZ2Zva3pIRUZLRzQyYnExM3R5U3FHV1NXbGxOZUJqU2Fjc1drbEFqQ1pVOTVHcXNMZU1mc0FkVkdmVV9nbzdhSTFxcFdxTVM3ZmM5NUU3SXMyaGU5NXVSX1Vfc2VrQWtxZ3dLdnhVQVdNM0k4STNrdUVVaThEczV5RWFLWTZQQUk3SXFpUjNuN3UwX0h2NHBhSlNwdTJKWUZuOFFoT1FfRHAyWDRXdmxSSGlhX1pRMzJlQWQtSFZlWFdDY1Q5aWpLaHdieDFaQlRSWXlwSWdhOWU0ZGpYVFFfc052anZwMlBkeDBnLWltalp0Qk5mSm05ZkxCeGU0VklxS2hSNENoUnRUQnoyZE5BWVNvY0dEZ3l6emxjejA1SUJjOWs3ZlJURmJCZlB6WTcyTG1vNEdaOHJPSzkxaEwteU1BU2tta1VZeXgxWWNLeUZYaFVBRlBoRlNWOTBZS0ZkMl9RUkNneVAyVC13dGRPcy16V0ZuRVVXNDd3Z2dmbV9UZnNmVkFsOWdMem4zMHo0MEtGVmNnYllPM0RBQ2JyR3E2NW9sZzFXWHRvMHNVUmk1ZkU2eHFremdXd2x3a2p2WWM4N3BfQUtYMWIxX2R2ak0xZEE4YXdpb29LOWRjTzRrQ19uWkFCTlVja0pYdXhiUW5RZG9VOTNOZ0pEQjNpaDdxdkJnRGkyTjdrZDg1aEdDNG4teGZTME9OX2NMQjBmclUwd2FkakRScHlpcHpFMEJKdTdGSTdBRkxiN2tPZE9tOWQ0YTMwSUdhWnI2QllLRENQZVY0UVdlaV9OSnpBeVd3cG1NU1lHaE0yc2JaN3JoMlZPTDZnc1RtQm9BM05uSVRnd3NxaTF2YXFsdW1ndll4UDA4WWpaSFdKZWRXMUlxMk9CYmhJRVdWckU0Q3d0Vm5PS0FOcUI3NUNIbTJVTzZOaFR2ZEowYXF4VGVPUkhYRTJ5dFZ1b3FLdVYtLS14Y3otckc2Q0dodTNreGhVRHlBcWxsZldhQ3JEa2FkSEVKaGtpczF5dlR3NDhmazFLVlJGQktJRHR4ZEVxcE9vOWtvRFpUN0haUmx1VlFOMA==: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 21:05:43,815 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVWNCMjgwVkROZkhuSWdJVnlfaWdISWZFdWFlS2s2VFJiOHlEUXZWMGpoUWVhQldDQTFscHY2bEh1NFhLZDVVV0x1VTkzWDk1Rkdua0Zlb1BHdVlzZmY2c1ZNRnRhRjVMTk1UNlUwSElMc21ReTdZamdIeUhLVENIWFlWaWZiVFhFR05EbW1xazYyWnNGcS16Wkc1ZWwtekR2ai1Jcnd2aDladEZSaS04ZHBTYkJtdnNtdmVqbXBuSWIzd2JHYTM0UmVXVnZCUW5yMElMak04Q1B2c1dxZGlVa3Z3Y1ZzQ2pUeElIZnNkenowTktjYUQ0Wm8weE9lX2RPeDM1am1SX1lWZkR1RWVQZFdFVWZOdm1qLWpEX2lKb0pwRUczc3dTRGMyb3VfTGlrT2xhd05hdlg4ZEY0ZHVicFZabTRGQlJaTjhacHgzWk5NODhleG5yRkE2YVpGWFI4ZmgxSEtmTzVnU2FWdFVqWFdldXZxeUN6VWc0a3ZOcGkyMGtkSDRGcjlMOVFBYjZMZ3hHMERnRy1NLTR4WnVsbnQ3Nk00MldfRFZnZ3YzcW5NVENGbG5EblEzU05NTEhXVmpzUzdHUmV5QjYxV09ycGQ4TEFLUTd3UW84anVIOUE9PQ==: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 21:05:43,815 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVWJXTVZXdW9BblNpRkQ2Z2VpTjlzR3ZQbXpCeUVVQlRJZFl6WVNxTWV1a0tnMTh0QUdPNDdIelItUTk0WXJxNlBfUlVYRmNpMHNnd2NMX3MwWnlUT0o5YzlBb2NpdERNNWNEblpIWUFJZnNabGd2OWtKWGZwQTRWZlh3MzlnMzNINGRkclhlcG9rREF6alBEV2pUTkkzY2t1OWUzQUVNeU9zdG1rY2xwOV9TVEs4bllMeHplcXRzdFNndFdyaXI2YURZMGcxODlVallJVWpVMmV6Nm11ZWNETnpfQzZCUUx0VWhncVZXRmMxRUtXUFFyWUstYjgzaXhzRFJtdllfeDRPWVlGMHM5bnh3XzhsZ2FvMkpsUFdtNVNQbTJZQnRraUlFaUJ2REp5VFJpMTVzWUplUkJacHc4ekpPVVc1VEotRDBYZEJEVk9Sb0QxZml1QUpremt6anA1WEVHZlc5QXVzMnU1cDhOcUUteUYwRW9tWTRoaHVnRVNhMWszMjBuS096QkY0YVl5T1F3RGV4c2ZHMlQwc2J3bHhNSm5WWDdyeUNRSll2VG85YXBQaTNzb2p1R1RoUEE0YXdaSGF6UG43ZGNjWlMyQWxUWVFCQjk3ZDcyUzFEV3dVbWEwVzhYcFFoUHMzdUhJRXFYb256d1E4QUpxck9udU1ZcnFid2E3NEM5ZWk0UHptZ215QlliakJtaE9FMGZvVHQ5ZGxMMVV4M3hDdG5CSDIzaVVNPQ==: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 21:05:43,815 - PersonalAgent - INFO - Generating LLM response with 5 messages
+2025-08-04 21:05:43,815 - PersonalAgent - INFO - Cache miss (not found) for key: a38f9f26...
+2025-08-04 21:05:43,815 - PersonalAgent - INFO - Generating response with 5 messages
+2025-08-04 21:05:43,815 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 21:05:45,773 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 21:05:45,773 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 21:05:45,773 - PersonalAgent - INFO - Response cached with key: a38f9f26..., TTL: 3600s
+2025-08-04 21:05:45,773 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 21:13:38,182 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 21:13:38,182 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 21:13:38,182 - PersonalAgent - INFO - Built-in provider openrouter loaded successfully
+2025-08-04 21:13:38,183 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 21:13:38,224 - PersonalAgent - INFO - LLM cache initialized with default TTL: 3600s
+2025-08-04 21:13:40,594 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVXJaM25XRkhFdmYtLUstTDJheUszNGtDaklPUW9MT0hVeVlDSHNSZUI0NzVHZFFuV2doaC01cUNkUHVVLWlCOEw0LWRJTHZ2eHNYSEJ3aG9zM2RoaUt3dG9PX2hjV2Zib1M5NGtlbnlBb0M4QjltTVhabXZXdTFaR0RnckNaZ3gzd3FwNTFSQkxrNEhyTjNtMHcxNnFGS3k5MUlCc2pPWnh2TEY4Y1BocGlUbEpTenpDaGtrNWh4RzhkZWJVNXNzMC1xaUNqRUxZbldCLS1pWnpHTlpYMk5wcjI3NnpLRGlRRlhGajB0VjZDRU9EY1piUVU1QmhpQmtGeGM1RG9OeE5jam5RX2I5US1wVWxaVmlCZVhuRFpBM082cjlNWFUzaEp6cjYtN0hIWF9tV0FicUt3NUxRZTNHMHk2U1VuczVwWEpwYjFGcGxkVlpYeUxfZDhUWDFhSHNIYjN5blJ5cEJDOHA3ckw3Mm1VRmxRczYzbXZZdDVMazZtRHpjemxWR3FnWV9OcWZrSXh1QXFTdTlOLS01b0VxcTNsLVNqNnU3el9lOWU5VGNqYmVnT0RQQXFkRktxWjMzREY4UDVGWG1KWUh0OS10ZUg3T0FDcUZudVQydG1HYjVvZjV4QmtOTGgyTGY3OFZyRmRXTlozX1l3cGhaLUlkWTR1U1RyT20teXZSdF9GU2VwaTlGc002VU5RUGpWVVh3PT0=: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 21:13:40,594 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVXJOMFFRNWh5ZXMxY1V6X0xWMGV0UWdleWRrS1phNmpRbkFrcXR0N19peWlXM0cxVDRiSWlMeG1jLTZ3aUkzWHFfTmhSXzIxQmladWRvb2ozUDF2YllSNTd4SDhhUjJwZ3htM0ZfTzg5TEwyaV9WOXBtUnpZVk92ZUZBS2pPRnlyUWp5aEFabVBWaV9JUXRMM1Q2WlozcnRxcFZmSWpRN3J6LWM4bXJMcU5VRk1oRnFEdVRNMzlheDRlLTIxLXpzZHlUc2N2cXRaazRLRDdlMlY2YjZ6MTluNkRESDRYUzF3aEwxaE1keFo4TmNuZC1iOTd2ZHlaS285dUROcXZqUFJvbDJnR2tocXZvWC10T0VCbzNWYmF1UzZKSXNsYzNLcGNNOTUwejFRZ19TRkdvRVgtOVFQQkxNRGM4V09hRDA5S09paGZMUVpSR3JrNnhsV1g1SUNPNjFFamtPSVZPRWJKNUNMZHBQWHEzTW8xcDlGdjZFU1F4LUZfZ2NUZHNmVDlkQWVOQlBrZ0xWTkIwcTZyZTl6N3dPWXJhSU0taV96a0YxMVd4eG9BdHdvQkZrNmtMOW5YNUhudmx4ZHZaOXUxc3ppcEphdU1PZnUzeVBrYWlXNEt1ZWxJTWRWZXl5RjgwSEtXdDFScTFMZW5EWG53YjJVSVFCWEY4VFZ1MTlKb2FoMGlqOHFPaUNXYk9Ba0tVVHZNT3RrdjhzdTdKTGxvTFROR2ZVZlpRR0U3QWQ3NUpKY0hoM0cwMnRkdXI4eWxQbk5yZzhuck42UW8zeFM0TXc5UXNQdz09: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 21:13:40,594 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVW5qX21GYVpmT2ZTZnRFODRPR0dmZXMxeXRVaDVIQjk3OUxLcVBVcmFwUElzWk92UmhsdEZhREJJZ1FjY0RvMmFhR2NYMUsyM3Rycno4Y2w0c09LQ01Id0lPVmZzazg3aFYzSTNKNDFqZUdFXzRlUTZkdVRvZVh2UVU0OGItUk1GYXdkQmpBR0JYUkZ2TURZLWZIU1V6THFkQzZHcktJR3BrTVZrUHA1ZUdxVTdKc25lNEJiR0RUalIzLXMzR1RpbEg3ZVo0SzFVcGl1V1NEbDVybHhRXzl3V2ZkN1k3SlNpV054Q2pxdHV4WlIzamNybEY1emZiTE91Y3lBOTF3N0RwVUdITHVJbTdYeHR6NGlHVVVLSDJ0WlplbnJCLVRKbGJSUnE3R0xxWEFMdUdPMlI1OE5WckRZVFlVT0FjWV84bXZUX25SbE1QSXFaamQxT21XMEliYmJPWDQxcFNnSzZuMlJNWGl2T21PNjVqUzMxOUMyYlZIRUhJWE01ZkZZMm9ILUYyUlhoTHEyd3RFT2dHeDF5bllxQnZxRHJmSVNVUHZGNEpDdzh2clNpOW1OTUpSNFZIRENMdzFNY0x5QXdGU1FiY2JCdUdIQ2NMTGpXOGNSWDdfYU1KbGJJX21melFPRWs2a0pUTmtCWXFMckk5N3JKZ04xLW5EeF9SdDFCMXlZMkZEd3NpOENRWmlaX043UGJ2QUZoTEoxU3hyanZyUnRraFBJN25MYWlzSFBnRGtQcFNoTGJKVTN3bjdKN3hIeWFFakhvRFdZV1F4b1hKS2JUTEh6OS1JTVlLbE51VWVqNXNSc1FxcEJhWmN1eFA2SVZ4WHViemVEdGxvZzg0Z3g4bWhneDhNQnJYcFNydmg4M1RZUWc9PQ==: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 21:13:40,594 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVWRna3JUUkFFWkVOOGFrVmpjNkVETUxWeE5jLTRjVkU3WjBzbGFrbV9zTWJrTF90Wk5BMGFNeGZvdFJUaVotMkZ3Y0ZhVFFHUnBHdmMtbFhTdF9SdnlCbE9RaXdaSEV0TlRHZ0wwWmU3emtnUUpuQVJ3VkVUT0RIRVhwdHgtd3F4R3NqWWgtdWhrSEh5dXMtSXl0cTZpT2gyMTJxVC16N2o4MEVtQ1BfbHhRQTNsVGx2dUp1a3dEdURYc1ZPQnhoVUpMNmlsY3cwYVN4NTBRVGtmQmFsTEpSMlhYcjR5TUlZZ1FjWUhhYlpha19nMzFDWGpRUWs2MVN2eWhvUTBBanllRER4MktGaW9YR0VuUklxSXhxRUJTX0p6NmFiV0p6cVJzWmpzb0hiX0g2S1RhSkdvdmJseTRNVWFxZnhlay0zc0Q2a2V3cmlMZzZyU1JWWjhzcUJXTFVKYmN1TXlFQmZWYkZvZUhaRTJhZFhHTGFGWEpFSDd2UHNSM0lnTk1GeV80TUJfcDZFTlJKMGZkeW91dGpteWZMdGlkOUsweGd3OFhUd0VuNmQ0eWlseWhITlZqc290ZGxzRUhmUlN3VWN2cndiZXNLeUxpWThPY1c4cTF4TU5FWUd1WmVPRVpSSWNtUzMybGNYaUd5UE0taEpWLUF5WkFYZm5YUG8wN05VVXM=: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 21:13:40,594 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVWRYbG1BdjZyOEFCZVJMa2xTVkRCZ2JNVmotWWpjTEFPOERUbkpvLVBNb1lNUjZXU1BRd1NPOUVtYVBOelRsdEtsbGh0eVZKenZCRHE0cTZWNXlwTm44WGQta01BR2Z6cHd5LTEzUzdSSXpWV3U3Y0NRdExpSnZDbXFrbGpqdkpyRGtZY1lnMUNIUnI2TlRfaXZURDg4UDNRcnhjMGZrQmF2S2NpR3ZTZ2QwRXZmN2kyTTZGUE9JYmVIVEdVQmphSkFQUm5LcmNJcURnQmNWWEROZVkxZUp3ZXlqZ09Db0dQTE1rRWthOXVJbXdHY1JhOV9meGdPYnl2ZDlpN1Q0YUwyT2F5Sk5hcUY2LVNmR2FJbzZkYTdEV05rQnQzemJka3V4RUwyc0N6ZkZqYWFZSkpkQmhCUUp2Ri1QRXlvcXFOWnJ3UUt5bFVHVmJ6R3JkQmRTdl9RUXA4UTVRREpMN2FFR0ZKb1R4MWNaTmVYZ0FmUFBFeTVzUmFQZUhRSF90VV95SnRjTFlUZG9taTd5bmJwTEhIc3BHUVpnbjFyRjBaUnU1WjcxdHZnSl9OX3c4U1E4bmhicmtwcG91ZDZrNjNJS3AtNWh3dVNydFRqZTdWQUZFSl9HUXRGNXlTV0NWRER4LUV2cmpTNzNsY0hSQmdQdnZEYVlxcVpyR2JJZ2xGRF9QSXR1LVVtZFkwMVhFYWoyNHI1UmgyLXZGc3Q4ZWExeGxHN1dnNENkMlFVS3dsM3BJQ01MXzZIekFBMEdjNmt3: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 21:13:40,595 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVWNlTTBxMTRVZFE4Y3MtdDBwQVBweWU3ajRCODNzOWpBc3ZfMGF1Nzl3eDRUOFBqcUVDcnQxcnFxRkxBNThTMExWOHE2blYxQ25VM3FZMHNRaVJCZXhtWFctNnFRcWRlekx0QUlBMnIwSXFETzFRWm9tdF9ZdEQxN0hibkp6YWZKYXZiaHctc2o1XzZaNXNsXzJnaDRJNVJjVEJJZjhQTHo4VVBtQ1J5alV0VWczc3RlSnB4Mmd1Q3BVTnp4ZGZqQ1dTLVZfX2NzcFY0cUZ0NnQ3WXFtRzhya3cwZUxPdFhqSWVmOUM4ZUhvdXVSanRRdXdCNmZacmZ3dmZndmd2cS04Uzh0bUV1bllRdkFjZEhrejFqNWJFMDhrTEpwQWs0WDRiNGJ3MklxUUR6VnNFbmdCaWlmaUhtSEEzbzhxeGtLeFF2SmpBUXlmLUFRcm1JX2dLNHk4X3ppUEF3aWFlUnVveDB5WTdDU2VyNHhSTzRQWTBhVng5bjNhS1g1WThCcGo3WU1rd0dKYTV4cktPXzJIcDlRZXlZa0JOZ2Zva3pIRUZLRzQyYnExM3R5U3FHV1NXbGxOZUJqU2Fjc1drbEFqQ1pVOTVHcXNMZU1mc0FkVkdmVV9nbzdhSTFxcFdxTVM3ZmM5NUU3SXMyaGU5NXVSX1Vfc2VrQWtxZ3dLdnhVQVdNM0k4STNrdUVVaThEczV5RWFLWTZQQUk3SXFpUjNuN3UwX0h2NHBhSlNwdTJKWUZuOFFoT1FfRHAyWDRXdmxSSGlhX1pRMzJlQWQtSFZlWFdDY1Q5aWpLaHdieDFaQlRSWXlwSWdhOWU0ZGpYVFFfc052anZwMlBkeDBnLWltalp0Qk5mSm05ZkxCeGU0VklxS2hSNENoUnRUQnoyZE5BWVNvY0dEZ3l6emxjejA1SUJjOWs3ZlJURmJCZlB6WTcyTG1vNEdaOHJPSzkxaEwteU1BU2tta1VZeXgxWWNLeUZYaFVBRlBoRlNWOTBZS0ZkMl9RUkNneVAyVC13dGRPcy16V0ZuRVVXNDd3Z2dmbV9UZnNmVkFsOWdMem4zMHo0MEtGVmNnYllPM0RBQ2JyR3E2NW9sZzFXWHRvMHNVUmk1ZkU2eHFremdXd2x3a2p2WWM4N3BfQUtYMWIxX2R2ak0xZEE4YXdpb29LOWRjTzRrQ19uWkFCTlVja0pYdXhiUW5RZG9VOTNOZ0pEQjNpaDdxdkJnRGkyTjdrZDg1aEdDNG4teGZTME9OX2NMQjBmclUwd2FkakRScHlpcHpFMEJKdTdGSTdBRkxiN2tPZE9tOWQ0YTMwSUdhWnI2QllLRENQZVY0UVdlaV9OSnpBeVd3cG1NU1lHaE0yc2JaN3JoMlZPTDZnc1RtQm9BM05uSVRnd3NxaTF2YXFsdW1ndll4UDA4WWpaSFdKZWRXMUlxMk9CYmhJRVdWckU0Q3d0Vm5PS0FOcUI3NUNIbTJVTzZOaFR2ZEowYXF4VGVPUkhYRTJ5dFZ1b3FLdVYtLS14Y3otckc2Q0dodTNreGhVRHlBcWxsZldhQ3JEa2FkSEVKaGtpczF5dlR3NDhmazFLVlJGQktJRHR4ZEVxcE9vOWtvRFpUN0haUmx1VlFOMA==: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 21:13:40,595 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVWNCMjgwVkROZkhuSWdJVnlfaWdISWZFdWFlS2s2VFJiOHlEUXZWMGpoUWVhQldDQTFscHY2bEh1NFhLZDVVV0x1VTkzWDk1Rkdua0Zlb1BHdVlzZmY2c1ZNRnRhRjVMTk1UNlUwSElMc21ReTdZamdIeUhLVENIWFlWaWZiVFhFR05EbW1xazYyWnNGcS16Wkc1ZWwtekR2ai1Jcnd2aDladEZSaS04ZHBTYkJtdnNtdmVqbXBuSWIzd2JHYTM0UmVXVnZCUW5yMElMak04Q1B2c1dxZGlVa3Z3Y1ZzQ2pUeElIZnNkenowTktjYUQ0Wm8weE9lX2RPeDM1am1SX1lWZkR1RWVQZFdFVWZOdm1qLWpEX2lKb0pwRUczc3dTRGMyb3VfTGlrT2xhd05hdlg4ZEY0ZHVicFZabTRGQlJaTjhacHgzWk5NODhleG5yRkE2YVpGWFI4ZmgxSEtmTzVnU2FWdFVqWFdldXZxeUN6VWc0a3ZOcGkyMGtkSDRGcjlMOVFBYjZMZ3hHMERnRy1NLTR4WnVsbnQ3Nk00MldfRFZnZ3YzcW5NVENGbG5EblEzU05NTEhXVmpzUzdHUmV5QjYxV09ycGQ4TEFLUTd3UW84anVIOUE9PQ==: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 21:13:40,595 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVWJXTVZXdW9BblNpRkQ2Z2VpTjlzR3ZQbXpCeUVVQlRJZFl6WVNxTWV1a0tnMTh0QUdPNDdIelItUTk0WXJxNlBfUlVYRmNpMHNnd2NMX3MwWnlUT0o5YzlBb2NpdERNNWNEblpIWUFJZnNabGd2OWtKWGZwQTRWZlh3MzlnMzNINGRkclhlcG9rREF6alBEV2pUTkkzY2t1OWUzQUVNeU9zdG1rY2xwOV9TVEs4bllMeHplcXRzdFNndFdyaXI2YURZMGcxODlVallJVWpVMmV6Nm11ZWNETnpfQzZCUUx0VWhncVZXRmMxRUtXUFFyWUstYjgzaXhzRFJtdllfeDRPWVlGMHM5bnh3XzhsZ2FvMkpsUFdtNVNQbTJZQnRraUlFaUJ2REp5VFJpMTVzWUplUkJacHc4ekpPVVc1VEotRDBYZEJEVk9Sb0QxZml1QUpremt6anA1WEVHZlc5QXVzMnU1cDhOcUUteUYwRW9tWTRoaHVnRVNhMWszMjBuS096QkY0YVl5T1F3RGV4c2ZHMlQwc2J3bHhNSm5WWDdyeUNRSll2VG85YXBQaTNzb2p1R1RoUEE0YXdaSGF6UG43ZGNjWlMyQWxUWVFCQjk3ZDcyUzFEV3dVbWEwVzhYcFFoUHMzdUhJRXFYb256d1E4QUpxck9udU1ZcnFid2E3NEM5ZWk0UHptZ215QlliakJtaE9FMGZvVHQ5ZGxMMVV4M3hDdG5CSDIzaVVNPQ==: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 21:13:40,595 - PersonalAgent - INFO - Generating LLM response with 3 messages
+2025-08-04 21:13:40,595 - PersonalAgent - INFO - Cache miss (not found) for key: 1be63c74...
+2025-08-04 21:13:40,595 - PersonalAgent - INFO - Generating response with 3 messages
+2025-08-04 21:13:40,595 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 21:13:43,708 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 21:13:43,708 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 21:13:43,708 - PersonalAgent - INFO - Response cached with key: 1be63c74..., TTL: 3600s
+2025-08-04 21:13:43,708 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 21:22:09,005 - PersonalAgent - WARNING - Empty or None content found in conversation history
+2025-08-04 21:22:09,005 - PersonalAgent - WARNING - Empty or None content found in conversation history
+2025-08-04 21:23:13,937 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 21:23:13,937 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 21:23:13,937 - PersonalAgent - INFO - Built-in provider openrouter loaded successfully
+2025-08-04 21:23:13,937 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 21:23:13,977 - PersonalAgent - INFO - LLM cache initialized with default TTL: 3600s
+2025-08-04 21:23:13,978 - PersonalAgent - INFO - Saving rating feedback for message test_message_1
+2025-08-04 21:23:13,982 - PersonalAgent - INFO - Rating feedback saved successfully
+2025-08-04 21:23:13,982 - PersonalAgent - INFO - Saving thumbs feedback for message test_message_2
+2025-08-04 21:23:13,983 - PersonalAgent - INFO - Thumbs feedback saved successfully
+2025-08-04 21:23:13,984 - PersonalAgent - INFO - Saving rating feedback for message test_message_3
+2025-08-04 21:23:13,985 - PersonalAgent - INFO - Rating feedback saved successfully
+2025-08-04 21:23:34,730 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 21:23:34,730 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 21:23:34,730 - PersonalAgent - INFO - Built-in provider openrouter loaded successfully
+2025-08-04 21:23:34,730 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 21:23:34,768 - PersonalAgent - INFO - LLM cache initialized with default TTL: 3600s
+2025-08-04 21:23:34,768 - PersonalAgent - INFO - Cache miss (not found) for key: 956ac88b...
+2025-08-04 21:23:34,768 - PersonalAgent - INFO - Generating response with 2 messages
+2025-08-04 21:23:34,768 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 21:23:37,307 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 21:23:37,307 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 21:23:37,307 - PersonalAgent - INFO - Response cached with key: 956ac88b..., TTL: 3600s
+2025-08-04 21:23:37,308 - PersonalAgent - INFO - Provider openrouter already loaded
+2025-08-04 21:23:37,308 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 21:23:37,335 - PersonalAgent - INFO - Cache miss (not found) for key: 492538dc...
+2025-08-04 21:23:37,335 - PersonalAgent - INFO - Generating response with 2 messages
+2025-08-04 21:23:37,335 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 21:23:39,193 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 21:23:39,193 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 21:23:39,193 - PersonalAgent - INFO - Response cached with key: 492538dc..., TTL: 3600s
+2025-08-04 21:23:39,193 - PersonalAgent - INFO - Cache miss (not found) for key: 167fd695...
+2025-08-04 21:23:39,193 - PersonalAgent - INFO - Generating response with 4 messages
+2025-08-04 21:23:39,193 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 21:23:42,448 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 21:23:42,448 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 21:23:42,448 - PersonalAgent - INFO - Response cached with key: 167fd695..., TTL: 3600s
+2025-08-04 21:24:57,094 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 21:24:57,094 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 21:24:57,094 - PersonalAgent - INFO - Built-in provider openrouter loaded successfully
+2025-08-04 21:24:57,094 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 21:24:57,136 - PersonalAgent - INFO - LLM cache initialized with default TTL: 3600s
+2025-08-04 21:25:01,693 - PersonalAgent - WARNING - Empty or None content found in conversation history
+2025-08-04 21:25:01,693 - PersonalAgent - WARNING - Empty or None content found in conversation history
+2025-08-04 21:25:01,693 - PersonalAgent - WARNING - Empty or None content found in conversation history
+2025-08-04 21:25:01,693 - PersonalAgent - WARNING - Empty or None content found in conversation history
+2025-08-04 21:25:01,693 - PersonalAgent - WARNING - Empty or None content found in conversation history
+2025-08-04 21:25:01,693 - PersonalAgent - WARNING - Empty or None content found in conversation history
+2025-08-04 21:25:01,693 - PersonalAgent - WARNING - Empty or None content found in conversation history
+2025-08-04 21:25:01,693 - PersonalAgent - WARNING - Empty or None content found in conversation history
+2025-08-04 21:25:01,693 - PersonalAgent - WARNING - Empty or None content found in conversation history
+2025-08-04 21:25:01,693 - PersonalAgent - WARNING - Empty or None content found in conversation history
+2025-08-04 21:25:01,693 - PersonalAgent - INFO - Generating LLM response with 2 messages
+2025-08-04 21:25:01,693 - PersonalAgent - INFO - Cache miss (not found) for key: 697d0f43...
+2025-08-04 21:25:01,693 - PersonalAgent - INFO - Generating response with 3 messages
+2025-08-04 21:25:01,693 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 21:25:04,599 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 21:25:04,599 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 21:25:04,599 - PersonalAgent - INFO - Response cached with key: 697d0f43..., TTL: 3600s
+2025-08-04 21:25:04,599 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 21:44:26,382 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 21:44:26,382 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 21:44:26,382 - PersonalAgent - INFO - Built-in provider openrouter loaded successfully
+2025-08-04 21:44:26,382 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 21:44:26,427 - PersonalAgent - INFO - LLM cache initialized with default TTL: 3600s
+2025-08-04 21:44:26,455 - PersonalAgent - INFO - Provider openrouter already loaded
+2025-08-04 21:44:26,455 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 21:44:26,509 - PersonalAgent - INFO - Provider openrouter already loaded
+2025-08-04 21:44:26,509 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 21:44:26,547 - PersonalAgent - INFO - Provider openrouter already loaded
+2025-08-04 21:44:26,547 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 21:48:29,806 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 21:48:29,806 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 21:48:29,806 - PersonalAgent - INFO - Built-in provider openrouter loaded successfully
+2025-08-04 21:48:29,806 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 21:48:29,844 - PersonalAgent - INFO - LLM cache initialized with default TTL: 3600s
+2025-08-04 21:48:29,857 - PersonalAgent - INFO - Provider openrouter already loaded
+2025-08-04 21:48:29,857 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 21:48:29,910 - PersonalAgent - INFO - Provider openrouter already loaded
+2025-08-04 21:48:29,910 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 21:50:10,381 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 21:50:10,381 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 21:50:10,381 - PersonalAgent - INFO - Built-in provider openrouter loaded successfully
+2025-08-04 21:50:10,381 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 21:50:10,422 - PersonalAgent - INFO - LLM cache initialized with default TTL: 3600s
+2025-08-04 21:50:10,434 - PersonalAgent - INFO - Provider openrouter already loaded
+2025-08-04 21:50:10,434 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 21:50:10,486 - PersonalAgent - INFO - Provider openrouter already loaded
+2025-08-04 21:50:10,486 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 21:50:19,153 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 21:50:19,153 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 21:50:19,153 - PersonalAgent - INFO - Built-in provider openrouter loaded successfully
+2025-08-04 21:50:19,153 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 21:50:19,195 - PersonalAgent - INFO - LLM cache initialized with default TTL: 3600s
+2025-08-04 21:50:19,222 - PersonalAgent - INFO - Provider openrouter already loaded
+2025-08-04 21:50:19,223 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 21:50:19,275 - PersonalAgent - INFO - Provider openrouter already loaded
+2025-08-04 21:50:19,275 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 21:50:19,313 - PersonalAgent - INFO - Provider openrouter already loaded
+2025-08-04 21:50:19,313 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 21:59:39,113 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 21:59:39,114 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 21:59:39,114 - PersonalAgent - INFO - Built-in provider openrouter loaded successfully
+2025-08-04 21:59:39,114 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 21:59:39,153 - PersonalAgent - INFO - LLM cache initialized with default TTL: 3600s
+2025-08-04 21:59:45,533 - PersonalAgent - INFO - Generating LLM response with 3 messages
+2025-08-04 21:59:45,533 - PersonalAgent - INFO - Cache miss (not found) for key: d87bdf44...
+2025-08-04 21:59:45,533 - PersonalAgent - INFO - Generating response with 3 messages
+2025-08-04 21:59:45,533 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 21:59:48,188 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 21:59:48,188 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 21:59:48,188 - PersonalAgent - INFO - Response cached with key: d87bdf44..., TTL: 3600s
+2025-08-04 21:59:48,188 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 21:59:56,764 - PersonalAgent - INFO - Saving rating feedback for message 836e79bd-78ad-4977-9897-1db010b949b2
+2025-08-04 21:59:56,769 - PersonalAgent - INFO - Rating feedback saved successfully
+2025-08-04 22:00:11,398 - PersonalAgent - INFO - Generating LLM response with 5 messages
+2025-08-04 22:00:11,399 - PersonalAgent - INFO - Cache miss (not found) for key: be51c09d...
+2025-08-04 22:00:11,399 - PersonalAgent - INFO - Generating response with 5 messages
+2025-08-04 22:00:11,399 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 22:00:18,487 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 22:00:18,487 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 22:00:18,487 - PersonalAgent - INFO - Response cached with key: be51c09d..., TTL: 3600s
+2025-08-04 22:00:18,487 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 22:03:30,933 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 22:03:30,933 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 22:03:30,934 - PersonalAgent - INFO - Built-in provider openrouter loaded successfully
+2025-08-04 22:03:30,934 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 22:03:30,972 - PersonalAgent - INFO - LLM cache initialized with default TTL: 3600s
+2025-08-04 22:03:30,972 - PersonalAgent - INFO - Cache miss (not found) for key: 956ac88b...
+2025-08-04 22:03:30,972 - PersonalAgent - INFO - Generating response with 2 messages
+2025-08-04 22:03:30,972 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 22:03:35,611 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 22:03:35,611 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 22:03:35,611 - PersonalAgent - INFO - Response cached with key: 956ac88b..., TTL: 3600s
+2025-08-04 22:03:35,612 - PersonalAgent - INFO - Provider openrouter already loaded
+2025-08-04 22:03:35,612 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 22:03:35,638 - PersonalAgent - INFO - Cache miss (not found) for key: 492538dc...
+2025-08-04 22:03:35,638 - PersonalAgent - INFO - Generating response with 2 messages
+2025-08-04 22:03:35,638 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 22:03:39,210 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 22:03:39,210 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 22:03:39,210 - PersonalAgent - INFO - Response cached with key: 492538dc..., TTL: 3600s
+2025-08-04 22:03:39,210 - PersonalAgent - INFO - Cache miss (not found) for key: 167fd695...
+2025-08-04 22:03:39,210 - PersonalAgent - INFO - Generating response with 4 messages
+2025-08-04 22:03:39,210 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 22:03:42,590 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 22:03:42,591 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 22:03:42,591 - PersonalAgent - INFO - Response cached with key: 167fd695..., TTL: 3600s
+2025-08-04 22:03:58,319 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 22:03:58,319 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 22:03:58,319 - PersonalAgent - INFO - Built-in provider openrouter loaded successfully
+2025-08-04 22:03:58,319 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 22:03:58,359 - PersonalAgent - INFO - LLM cache initialized with default TTL: 3600s
+2025-08-04 22:03:58,361 - PersonalAgent - INFO - Saving rating feedback for message test_message_1
+2025-08-04 22:03:58,363 - PersonalAgent - INFO - Rating feedback saved successfully
+2025-08-04 22:03:58,363 - PersonalAgent - INFO - Saving thumbs feedback for message test_message_2
+2025-08-04 22:03:58,365 - PersonalAgent - INFO - Thumbs feedback saved successfully
+2025-08-04 22:03:58,365 - PersonalAgent - INFO - Saving rating feedback for message test_message_3
+2025-08-04 22:03:58,366 - PersonalAgent - INFO - Rating feedback saved successfully
+2025-08-04 22:22:04,752 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 22:22:04,752 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 22:22:04,752 - PersonalAgent - INFO - Built-in provider openrouter loaded successfully
+2025-08-04 22:22:04,752 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 22:22:04,789 - PersonalAgent - INFO - LLM cache initialized with default TTL: 3600s
+2025-08-04 22:22:04,792 - PersonalAgent - INFO - Provider openrouter already loaded
+2025-08-04 22:22:04,792 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 22:22:04,820 - PersonalAgent - INFO - Cache miss (not found) for key: 13704cd4...
+2025-08-04 22:22:04,820 - PersonalAgent - INFO - Generating response with 2 messages
+2025-08-04 22:22:04,820 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 22:22:23,028 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 22:22:23,028 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 22:22:23,029 - PersonalAgent - INFO - Response cached with key: 13704cd4..., TTL: 3600s
+2025-08-04 22:22:23,030 - PersonalAgent - INFO - Provider openrouter already loaded
+2025-08-04 22:22:23,030 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 22:22:23,056 - PersonalAgent - INFO - Cache miss (not found) for key: f8105e96...
+2025-08-04 22:22:23,056 - PersonalAgent - INFO - Generating response with 2 messages
+2025-08-04 22:22:23,056 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 22:22:26,735 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 22:22:26,735 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 22:22:26,735 - PersonalAgent - INFO - Response cached with key: f8105e96..., TTL: 3600s
+2025-08-04 22:22:26,737 - PersonalAgent - INFO - Provider openrouter already loaded
+2025-08-04 22:22:26,737 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 22:22:26,766 - PersonalAgent - INFO - Provider openrouter already loaded
+2025-08-04 22:22:26,766 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 22:22:26,801 - PersonalAgent - INFO - Generating LLM response with 5 messages
+2025-08-04 22:22:26,801 - PersonalAgent - INFO - Cache miss (not found) for key: 5bece99e...
+2025-08-04 22:22:26,801 - PersonalAgent - INFO - Generating response with 5 messages
+2025-08-04 22:22:26,801 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 22:24:08,191 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 22:24:08,192 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 22:24:08,192 - PersonalAgent - INFO - Response cached with key: 5bece99e..., TTL: 3600s
+2025-08-04 22:24:08,192 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 22:24:08,198 - PersonalAgent - INFO - Generating LLM response with 9 messages
+2025-08-04 22:24:08,198 - PersonalAgent - INFO - Cache miss (not found) for key: 864e2be3...
+2025-08-04 22:24:08,198 - PersonalAgent - INFO - Generating response with 9 messages
+2025-08-04 22:24:08,198 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 22:24:25,620 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 22:24:25,620 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 22:24:25,620 - PersonalAgent - INFO - Response cached with key: 864e2be3..., TTL: 3600s
+2025-08-04 22:24:25,620 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 22:47:16,024 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 22:47:16,024 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 22:47:16,024 - PersonalAgent - INFO - Built-in provider openrouter loaded successfully
+2025-08-04 22:47:16,024 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 22:47:16,064 - PersonalAgent - INFO - LLM cache initialized with default TTL: 3600s
+2025-08-04 22:47:16,067 - PersonalAgent - INFO - Generating LLM response with 4 messages
+2025-08-04 22:47:16,067 - PersonalAgent - INFO - Cache miss (not found) for key: 1c9933f1...
+2025-08-04 22:47:16,067 - PersonalAgent - INFO - Generating response with 4 messages
+2025-08-04 22:47:16,067 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 22:47:29,553 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 22:47:29,553 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 22:47:29,553 - PersonalAgent - INFO - Response cached with key: 1c9933f1..., TTL: 3600s
+2025-08-04 22:47:29,553 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 22:47:29,562 - PersonalAgent - INFO - Generating LLM response with 6 messages
+2025-08-04 22:47:29,562 - PersonalAgent - INFO - Cache miss (not found) for key: fede57cb...
+2025-08-04 22:47:29,562 - PersonalAgent - INFO - Generating response with 6 messages
+2025-08-04 22:47:29,562 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 22:47:36,391 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 22:47:36,391 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 22:47:36,391 - PersonalAgent - INFO - Response cached with key: fede57cb..., TTL: 3600s
+2025-08-04 22:47:36,391 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 22:47:36,407 - PersonalAgent - INFO - Generating LLM response with 8 messages
+2025-08-04 22:47:36,407 - PersonalAgent - INFO - Cache miss (not found) for key: 5e3815d7...
+2025-08-04 22:47:36,407 - PersonalAgent - INFO - Generating response with 8 messages
+2025-08-04 22:47:36,407 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 22:47:40,752 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 22:47:40,752 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 22:47:40,753 - PersonalAgent - INFO - Response cached with key: 5e3815d7..., TTL: 3600s
+2025-08-04 22:47:40,753 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 22:47:40,763 - PersonalAgent - INFO - Generating LLM response with 9 messages
+2025-08-04 22:47:40,763 - PersonalAgent - INFO - Cache miss (not found) for key: ae16f876...
+2025-08-04 22:47:40,763 - PersonalAgent - INFO - Generating response with 9 messages
+2025-08-04 22:47:40,763 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 22:47:46,497 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 22:47:46,497 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 22:47:46,497 - PersonalAgent - INFO - Response cached with key: ae16f876..., TTL: 3600s
+2025-08-04 22:47:46,500 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 22:47:46,506 - PersonalAgent - INFO - Generating LLM response with 9 messages
+2025-08-04 22:47:46,506 - PersonalAgent - INFO - Cache miss (not found) for key: fbdcef4b...
+2025-08-04 22:47:46,506 - PersonalAgent - INFO - Generating response with 9 messages
+2025-08-04 22:47:46,506 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 22:47:54,127 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 22:47:54,127 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 22:47:54,127 - PersonalAgent - INFO - Response cached with key: fbdcef4b..., TTL: 3600s
+2025-08-04 22:47:54,127 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 22:57:57,230 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 22:57:57,230 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 22:57:57,230 - PersonalAgent - INFO - Built-in provider openrouter loaded successfully
+2025-08-04 22:57:57,230 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 22:57:57,267 - PersonalAgent - INFO - LLM cache initialized with default TTL: 3600s
+2025-08-04 22:57:57,270 - PersonalAgent - INFO - Generating LLM response with 4 messages
+2025-08-04 22:57:57,270 - PersonalAgent - INFO - Cache miss (not found) for key: 45107696...
+2025-08-04 22:57:57,270 - PersonalAgent - INFO - Generating response with 4 messages
+2025-08-04 22:57:57,270 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 22:58:02,136 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 22:58:02,136 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 22:58:02,136 - PersonalAgent - INFO - Response cached with key: 45107696..., TTL: 3600s
+2025-08-04 22:58:02,136 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 22:58:02,521 - PersonalAgent - INFO - Generating LLM response with 6 messages
+2025-08-04 22:58:02,521 - PersonalAgent - INFO - Cache miss (not found) for key: 1c978189...
+2025-08-04 22:58:02,521 - PersonalAgent - INFO - Generating response with 6 messages
+2025-08-04 22:58:02,521 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 22:58:05,910 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 22:58:05,910 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 22:58:05,910 - PersonalAgent - INFO - Response cached with key: 1c978189..., TTL: 3600s
+2025-08-04 22:58:05,911 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 22:58:05,934 - PersonalAgent - INFO - Generating LLM response with 8 messages
+2025-08-04 22:58:05,934 - PersonalAgent - INFO - Cache miss (not found) for key: caef5e16...
+2025-08-04 22:58:05,934 - PersonalAgent - INFO - Generating response with 8 messages
+2025-08-04 22:58:05,935 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 22:58:13,449 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 22:58:13,449 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 22:58:13,449 - PersonalAgent - INFO - Response cached with key: caef5e16..., TTL: 3600s
+2025-08-04 22:58:13,449 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 22:58:13,754 - PersonalAgent - INFO - Generating LLM response with 9 messages
+2025-08-04 22:58:13,754 - PersonalAgent - INFO - Cache miss (not found) for key: 4278b32b...
+2025-08-04 22:58:13,754 - PersonalAgent - INFO - Generating response with 9 messages
+2025-08-04 22:58:13,754 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 22:58:18,982 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 22:58:18,982 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 22:58:18,982 - PersonalAgent - INFO - Response cached with key: 4278b32b..., TTL: 3600s
+2025-08-04 22:58:18,982 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 22:58:19,027 - PersonalAgent - INFO - Generating LLM response with 9 messages
+2025-08-04 22:58:19,027 - PersonalAgent - INFO - Cache miss (not found) for key: c5082f99...
+2025-08-04 22:58:19,027 - PersonalAgent - INFO - Generating response with 9 messages
+2025-08-04 22:58:19,027 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 22:58:24,552 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 22:58:24,552 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 22:58:24,552 - PersonalAgent - INFO - Response cached with key: c5082f99..., TTL: 3600s
+2025-08-04 22:58:24,552 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:15:50,606 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 23:15:50,606 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 23:15:50,606 - PersonalAgent - INFO - Built-in provider openrouter loaded successfully
+2025-08-04 23:15:50,606 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 23:15:50,643 - PersonalAgent - INFO - LLM cache initialized with default TTL: 3600s
+2025-08-04 23:15:50,645 - PersonalAgent - INFO - Generating LLM response with 4 messages
+2025-08-04 23:15:50,646 - PersonalAgent - INFO - Cache miss (not found) for key: 26b6a3e3...
+2025-08-04 23:15:50,646 - PersonalAgent - INFO - Generating response with 4 messages
+2025-08-04 23:15:50,646 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:15:54,984 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:15:54,984 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:15:54,984 - PersonalAgent - INFO - Response cached with key: 26b6a3e3..., TTL: 3600s
+2025-08-04 23:15:54,984 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:15:54,992 - PersonalAgent - INFO - Generating LLM response with 6 messages
+2025-08-04 23:15:54,992 - PersonalAgent - INFO - Cache miss (not found) for key: e391685e...
+2025-08-04 23:15:54,992 - PersonalAgent - INFO - Generating response with 6 messages
+2025-08-04 23:15:54,992 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:16:08,423 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:16:08,423 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:16:08,423 - PersonalAgent - INFO - Response cached with key: e391685e..., TTL: 3600s
+2025-08-04 23:16:08,423 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:16:08,431 - PersonalAgent - INFO - Generating LLM response with 8 messages
+2025-08-04 23:16:08,431 - PersonalAgent - INFO - Cache miss (not found) for key: 903f4de2...
+2025-08-04 23:16:08,431 - PersonalAgent - INFO - Generating response with 8 messages
+2025-08-04 23:16:08,432 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:16:11,871 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:16:11,871 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:16:11,871 - PersonalAgent - INFO - Response cached with key: 903f4de2..., TTL: 3600s
+2025-08-04 23:16:11,871 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:16:11,882 - PersonalAgent - INFO - Provider openrouter already loaded
+2025-08-04 23:16:11,882 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 23:16:11,913 - PersonalAgent - INFO - Generating LLM response with 4 messages
+2025-08-04 23:16:11,914 - PersonalAgent - INFO - Cache miss (not found) for key: 0019ea5c...
+2025-08-04 23:16:11,914 - PersonalAgent - INFO - Generating response with 4 messages
+2025-08-04 23:16:11,914 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:16:15,076 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:16:15,077 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:16:15,077 - PersonalAgent - INFO - Response cached with key: 0019ea5c..., TTL: 3600s
+2025-08-04 23:16:15,077 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:16:15,082 - PersonalAgent - INFO - Generating LLM response with 6 messages
+2025-08-04 23:16:15,082 - PersonalAgent - INFO - Cache miss (not found) for key: 8ece6e27...
+2025-08-04 23:16:15,082 - PersonalAgent - INFO - Generating response with 6 messages
+2025-08-04 23:16:15,082 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:16:37,384 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:16:37,384 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:16:37,384 - PersonalAgent - INFO - Response cached with key: 8ece6e27..., TTL: 3600s
+2025-08-04 23:16:37,384 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:16:37,388 - PersonalAgent - INFO - Generating LLM response with 8 messages
+2025-08-04 23:16:37,389 - PersonalAgent - INFO - Cache miss (not found) for key: 8ac6278c...
+2025-08-04 23:16:37,389 - PersonalAgent - INFO - Generating response with 8 messages
+2025-08-04 23:16:37,389 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:16:41,081 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:16:41,081 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:16:41,081 - PersonalAgent - INFO - Response cached with key: 8ac6278c..., TTL: 3600s
+2025-08-04 23:16:41,081 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:16:41,086 - PersonalAgent - INFO - Provider openrouter already loaded
+2025-08-04 23:16:41,086 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 23:16:41,116 - PersonalAgent - INFO - Generating LLM response with 4 messages
+2025-08-04 23:16:41,116 - PersonalAgent - INFO - Cache miss (not found) for key: 4a93f428...
+2025-08-04 23:16:41,116 - PersonalAgent - INFO - Generating response with 4 messages
+2025-08-04 23:16:41,116 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:16:45,343 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:16:45,343 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:16:45,343 - PersonalAgent - INFO - Response cached with key: 4a93f428..., TTL: 3600s
+2025-08-04 23:16:45,343 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:16:45,351 - PersonalAgent - INFO - Generating LLM response with 6 messages
+2025-08-04 23:16:45,351 - PersonalAgent - INFO - Cache miss (not found) for key: 42b8d875...
+2025-08-04 23:16:45,351 - PersonalAgent - INFO - Generating response with 6 messages
+2025-08-04 23:16:45,351 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:16:55,804 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:16:55,804 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:16:55,805 - PersonalAgent - INFO - Response cached with key: 42b8d875..., TTL: 3600s
+2025-08-04 23:16:55,805 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:16:55,812 - PersonalAgent - INFO - Generating LLM response with 8 messages
+2025-08-04 23:16:55,812 - PersonalAgent - INFO - Cache miss (not found) for key: ffe9506b...
+2025-08-04 23:16:55,812 - PersonalAgent - INFO - Generating response with 8 messages
+2025-08-04 23:16:55,812 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:17:08,176 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:17:08,176 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:17:08,176 - PersonalAgent - INFO - Response cached with key: ffe9506b..., TTL: 3600s
+2025-08-04 23:17:08,176 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:17:08,183 - PersonalAgent - INFO - Generating LLM response with 9 messages
+2025-08-04 23:17:08,183 - PersonalAgent - INFO - Cache miss (not found) for key: e4663c74...
+2025-08-04 23:17:08,183 - PersonalAgent - INFO - Generating response with 9 messages
+2025-08-04 23:17:08,183 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:17:29,106 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:17:29,107 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:17:29,107 - PersonalAgent - INFO - Response cached with key: e4663c74..., TTL: 3600s
+2025-08-04 23:17:29,107 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:17:29,114 - PersonalAgent - INFO - Generating LLM response with 9 messages
+2025-08-04 23:17:29,115 - PersonalAgent - INFO - Cache miss (not found) for key: 981d6458...
+2025-08-04 23:17:29,115 - PersonalAgent - INFO - Generating response with 9 messages
+2025-08-04 23:17:29,115 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:17:31,940 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:17:31,940 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:17:31,940 - PersonalAgent - INFO - Response cached with key: 981d6458..., TTL: 3600s
+2025-08-04 23:17:31,940 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:17:31,947 - PersonalAgent - INFO - Generating LLM response with 9 messages
+2025-08-04 23:17:31,947 - PersonalAgent - INFO - Cache miss (not found) for key: 54b29742...
+2025-08-04 23:17:31,947 - PersonalAgent - INFO - Generating response with 9 messages
+2025-08-04 23:17:31,947 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:17:34,629 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:17:34,629 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:17:34,630 - PersonalAgent - INFO - Response cached with key: 54b29742..., TTL: 3600s
+2025-08-04 23:17:34,630 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:17:51,246 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 23:17:51,246 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 23:17:51,246 - PersonalAgent - INFO - Built-in provider openrouter loaded successfully
+2025-08-04 23:17:51,246 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 23:17:51,286 - PersonalAgent - INFO - LLM cache initialized with default TTL: 3600s
+2025-08-04 23:17:51,290 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVTZ3ZDR1VTdlNUdqdHEwc2dzUFZPUlRKcGo5d19nMHJLZVl5cjliTWhLbDdzLWprRVIzcW9yOWNYNm5CbDNxUmh4Yk8yR2w5SC1fUlhnN0xocW1xUkxrZnpPSkhxcmhfOEprYnV6LUR4NEQwQVdnQXh2MjEyV1NxSzZwUllQTEhCN1k5RVM3NTdDZU40ZG44Rk5JQk8yc013Z3BZdlpPRFZiMmVtUDRlbHF1NEh3PQ==: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 23:17:51,290 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVXA2a0hDVVlQYlFkOC1XNmhjRHgtV2dwNUxhQWJRUjRfcHlhYnlZcTRnQ2VpQ2tCZ2lSQmQzbEtuSEYwYkZjNnkyMlZXUW02X3o3VjM5ZFB0cmQxVTBPQXIxM01vZWZxUEd5ME9PNGNfejR4X0xmQ2VKNXI1SnB0ZER3aGs1VS1Bd3ZfMlJ0QWYxVHFyN1Jzc3JvT29WTUdiek9Nekc1ZFJsU3o5UTl1SXE1UEhVPQ==: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 23:17:51,290 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rU1JseVZ5T1M5VnFITkxmQTZYUHRtdlI4Z0VoZW9Dc19uLWpyVHp1QUFRblJCUGlIM29OSXJLT3Ryd3hUMDd0bmZrWjcyLXFNdURLMGVhQzR2cnJDdXFWYjNEV0RqTndneGFEQTNRQmtoY2FpSGpCMDRTeDZpUUVlZzYxOEdPUnZWYzZKeXJOTjZ3SFdYNGRfcGRFR2d4dGYyS1otQVdjaW1RdTkwMWRwR1Y3dF9PRVM4VmZoNzQ5QnJXN2xMRy1rNzZUUG56LTVVaW43aGV5ZjhLUDRaUk4xMUJqNy0tNEFxUVE1a2x0Q0R6dlpOc0RuQUMtdnVJNldibEdfRElNd0MyM3RuSDJXRXhDeHBXZUM3QlhiMHQ1V0thNXg3Zng0RnpyNFpWZUR3OTIyY1luNkFULXVhejVIbUxfMDNmNzdsSFVzZVNBSUVVbXBrQ1E4T25WcEFCd0V5V0lNUnpXNkdBT2Vkbi1OUW5UZXFjakRWMzI0NFRUX2hSMVloSWhPNjhQRlZwaC1kczI0RUNXamlKS2JYd3Z0U0prckFMbF85VXp3VVl2Q0FvZXgtNUZIYlc2OWtzMlVXQ045bG9xR2tiSWlkMVc0SkdhcUVTc1BlNjA5NnJ6bUlrNGw3dU9LTEpyYUg5Qjhtc1lpTTZWSkpQaW5CcDBDbmxmSjZHTGpPRVk=: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 23:17:51,290 - PersonalAgent - INFO - Generating LLM response with 3 messages
+2025-08-04 23:17:51,290 - PersonalAgent - INFO - Cache miss (not found) for key: ea6668e5...
+2025-08-04 23:17:51,290 - PersonalAgent - INFO - Generating response with 3 messages
+2025-08-04 23:17:51,290 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:17:54,978 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:17:54,979 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:17:54,979 - PersonalAgent - INFO - Response cached with key: ea6668e5..., TTL: 3600s
+2025-08-04 23:17:54,979 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:17:54,996 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVTZ3ZDR1VTdlNUdqdHEwc2dzUFZPUlRKcGo5d19nMHJLZVl5cjliTWhLbDdzLWprRVIzcW9yOWNYNm5CbDNxUmh4Yk8yR2w5SC1fUlhnN0xocW1xUkxrZnpPSkhxcmhfOEprYnV6LUR4NEQwQVdnQXh2MjEyV1NxSzZwUllQTEhCN1k5RVM3NTdDZU40ZG44Rk5JQk8yc013Z3BZdlpPRFZiMmVtUDRlbHF1NEh3PQ==: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 23:17:54,996 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVXA2a0hDVVlQYlFkOC1XNmhjRHgtV2dwNUxhQWJRUjRfcHlhYnlZcTRnQ2VpQ2tCZ2lSQmQzbEtuSEYwYkZjNnkyMlZXUW02X3o3VjM5ZFB0cmQxVTBPQXIxM01vZWZxUEd5ME9PNGNfejR4X0xmQ2VKNXI1SnB0ZER3aGs1VS1Bd3ZfMlJ0QWYxVHFyN1Jzc3JvT29WTUdiek9Nekc1ZFJsU3o5UTl1SXE1UEhVPQ==: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 23:17:54,996 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rU1JseVZ5T1M5VnFITkxmQTZYUHRtdlI4Z0VoZW9Dc19uLWpyVHp1QUFRblJCUGlIM29OSXJLT3Ryd3hUMDd0bmZrWjcyLXFNdURLMGVhQzR2cnJDdXFWYjNEV0RqTndneGFEQTNRQmtoY2FpSGpCMDRTeDZpUUVlZzYxOEdPUnZWYzZKeXJOTjZ3SFdYNGRfcGRFR2d4dGYyS1otQVdjaW1RdTkwMWRwR1Y3dF9PRVM4VmZoNzQ5QnJXN2xMRy1rNzZUUG56LTVVaW43aGV5ZjhLUDRaUk4xMUJqNy0tNEFxUVE1a2x0Q0R6dlpOc0RuQUMtdnVJNldibEdfRElNd0MyM3RuSDJXRXhDeHBXZUM3QlhiMHQ1V0thNXg3Zng0RnpyNFpWZUR3OTIyY1luNkFULXVhejVIbUxfMDNmNzdsSFVzZVNBSUVVbXBrQ1E4T25WcEFCd0V5V0lNUnpXNkdBT2Vkbi1OUW5UZXFjakRWMzI0NFRUX2hSMVloSWhPNjhQRlZwaC1kczI0RUNXamlKS2JYd3Z0U0prckFMbF85VXp3VVl2Q0FvZXgtNUZIYlc2OWtzMlVXQ045bG9xR2tiSWlkMVc0SkdhcUVTc1BlNjA5NnJ6bUlrNGw3dU9LTEpyYUg5Qjhtc1lpTTZWSkpQaW5CcDBDbmxmSjZHTGpPRVk=: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 23:17:54,997 - PersonalAgent - INFO - Generating LLM response with 6 messages
+2025-08-04 23:17:54,997 - PersonalAgent - INFO - Cache miss (not found) for key: 5621e617...
+2025-08-04 23:17:54,997 - PersonalAgent - INFO - Generating response with 6 messages
+2025-08-04 23:17:54,997 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:17:58,221 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:17:58,221 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:17:58,221 - PersonalAgent - INFO - Response cached with key: 5621e617..., TTL: 3600s
+2025-08-04 23:17:58,221 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:17:58,227 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVTZ3ZDR1VTdlNUdqdHEwc2dzUFZPUlRKcGo5d19nMHJLZVl5cjliTWhLbDdzLWprRVIzcW9yOWNYNm5CbDNxUmh4Yk8yR2w5SC1fUlhnN0xocW1xUkxrZnpPSkhxcmhfOEprYnV6LUR4NEQwQVdnQXh2MjEyV1NxSzZwUllQTEhCN1k5RVM3NTdDZU40ZG44Rk5JQk8yc013Z3BZdlpPRFZiMmVtUDRlbHF1NEh3PQ==: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 23:17:58,227 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVXA2a0hDVVlQYlFkOC1XNmhjRHgtV2dwNUxhQWJRUjRfcHlhYnlZcTRnQ2VpQ2tCZ2lSQmQzbEtuSEYwYkZjNnkyMlZXUW02X3o3VjM5ZFB0cmQxVTBPQXIxM01vZWZxUEd5ME9PNGNfejR4X0xmQ2VKNXI1SnB0ZER3aGs1VS1Bd3ZfMlJ0QWYxVHFyN1Jzc3JvT29WTUdiek9Nekc1ZFJsU3o5UTl1SXE1UEhVPQ==: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 23:17:58,227 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rU1JseVZ5T1M5VnFITkxmQTZYUHRtdlI4Z0VoZW9Dc19uLWpyVHp1QUFRblJCUGlIM29OSXJLT3Ryd3hUMDd0bmZrWjcyLXFNdURLMGVhQzR2cnJDdXFWYjNEV0RqTndneGFEQTNRQmtoY2FpSGpCMDRTeDZpUUVlZzYxOEdPUnZWYzZKeXJOTjZ3SFdYNGRfcGRFR2d4dGYyS1otQVdjaW1RdTkwMWRwR1Y3dF9PRVM4VmZoNzQ5QnJXN2xMRy1rNzZUUG56LTVVaW43aGV5ZjhLUDRaUk4xMUJqNy0tNEFxUVE1a2x0Q0R6dlpOc0RuQUMtdnVJNldibEdfRElNd0MyM3RuSDJXRXhDeHBXZUM3QlhiMHQ1V0thNXg3Zng0RnpyNFpWZUR3OTIyY1luNkFULXVhejVIbUxfMDNmNzdsSFVzZVNBSUVVbXBrQ1E4T25WcEFCd0V5V0lNUnpXNkdBT2Vkbi1OUW5UZXFjakRWMzI0NFRUX2hSMVloSWhPNjhQRlZwaC1kczI0RUNXamlKS2JYd3Z0U0prckFMbF85VXp3VVl2Q0FvZXgtNUZIYlc2OWtzMlVXQ045bG9xR2tiSWlkMVc0SkdhcUVTc1BlNjA5NnJ6bUlrNGw3dU9LTEpyYUg5Qjhtc1lpTTZWSkpQaW5CcDBDbmxmSjZHTGpPRVk=: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 23:17:58,227 - PersonalAgent - INFO - Generating LLM response with 8 messages
+2025-08-04 23:17:58,227 - PersonalAgent - INFO - Cache miss (not found) for key: ea57db53...
+2025-08-04 23:17:58,227 - PersonalAgent - INFO - Generating response with 8 messages
+2025-08-04 23:17:58,228 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:18:01,551 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:18:01,551 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:18:01,551 - PersonalAgent - INFO - Response cached with key: ea57db53..., TTL: 3600s
+2025-08-04 23:18:01,551 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:18:01,556 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVTZ3ZDR1VTdlNUdqdHEwc2dzUFZPUlRKcGo5d19nMHJLZVl5cjliTWhLbDdzLWprRVIzcW9yOWNYNm5CbDNxUmh4Yk8yR2w5SC1fUlhnN0xocW1xUkxrZnpPSkhxcmhfOEprYnV6LUR4NEQwQVdnQXh2MjEyV1NxSzZwUllQTEhCN1k5RVM3NTdDZU40ZG44Rk5JQk8yc013Z3BZdlpPRFZiMmVtUDRlbHF1NEh3PQ==: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 23:18:01,556 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVXA2a0hDVVlQYlFkOC1XNmhjRHgtV2dwNUxhQWJRUjRfcHlhYnlZcTRnQ2VpQ2tCZ2lSQmQzbEtuSEYwYkZjNnkyMlZXUW02X3o3VjM5ZFB0cmQxVTBPQXIxM01vZWZxUEd5ME9PNGNfejR4X0xmQ2VKNXI1SnB0ZER3aGs1VS1Bd3ZfMlJ0QWYxVHFyN1Jzc3JvT29WTUdiek9Nekc1ZFJsU3o5UTl1SXE1UEhVPQ==: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 23:18:01,556 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rU1JseVZ5T1M5VnFITkxmQTZYUHRtdlI4Z0VoZW9Dc19uLWpyVHp1QUFRblJCUGlIM29OSXJLT3Ryd3hUMDd0bmZrWjcyLXFNdURLMGVhQzR2cnJDdXFWYjNEV0RqTndneGFEQTNRQmtoY2FpSGpCMDRTeDZpUUVlZzYxOEdPUnZWYzZKeXJOTjZ3SFdYNGRfcGRFR2d4dGYyS1otQVdjaW1RdTkwMWRwR1Y3dF9PRVM4VmZoNzQ5QnJXN2xMRy1rNzZUUG56LTVVaW43aGV5ZjhLUDRaUk4xMUJqNy0tNEFxUVE1a2x0Q0R6dlpOc0RuQUMtdnVJNldibEdfRElNd0MyM3RuSDJXRXhDeHBXZUM3QlhiMHQ1V0thNXg3Zng0RnpyNFpWZUR3OTIyY1luNkFULXVhejVIbUxfMDNmNzdsSFVzZVNBSUVVbXBrQ1E4T25WcEFCd0V5V0lNUnpXNkdBT2Vkbi1OUW5UZXFjakRWMzI0NFRUX2hSMVloSWhPNjhQRlZwaC1kczI0RUNXamlKS2JYd3Z0U0prckFMbF85VXp3VVl2Q0FvZXgtNUZIYlc2OWtzMlVXQ045bG9xR2tiSWlkMVc0SkdhcUVTc1BlNjA5NnJ6bUlrNGw3dU9LTEpyYUg5Qjhtc1lpTTZWSkpQaW5CcDBDbmxmSjZHTGpPRVk=: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 23:18:01,557 - PersonalAgent - INFO - Generating LLM response with 9 messages
+2025-08-04 23:18:01,557 - PersonalAgent - INFO - Cache miss (not found) for key: dbe00f71...
+2025-08-04 23:18:01,557 - PersonalAgent - INFO - Generating response with 9 messages
+2025-08-04 23:18:01,557 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:18:14,607 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:18:14,607 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:18:14,607 - PersonalAgent - INFO - Response cached with key: dbe00f71..., TTL: 3600s
+2025-08-04 23:18:14,607 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:18:14,613 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVTZ3ZDR1VTdlNUdqdHEwc2dzUFZPUlRKcGo5d19nMHJLZVl5cjliTWhLbDdzLWprRVIzcW9yOWNYNm5CbDNxUmh4Yk8yR2w5SC1fUlhnN0xocW1xUkxrZnpPSkhxcmhfOEprYnV6LUR4NEQwQVdnQXh2MjEyV1NxSzZwUllQTEhCN1k5RVM3NTdDZU40ZG44Rk5JQk8yc013Z3BZdlpPRFZiMmVtUDRlbHF1NEh3PQ==: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 23:18:14,613 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVXA2a0hDVVlQYlFkOC1XNmhjRHgtV2dwNUxhQWJRUjRfcHlhYnlZcTRnQ2VpQ2tCZ2lSQmQzbEtuSEYwYkZjNnkyMlZXUW02X3o3VjM5ZFB0cmQxVTBPQXIxM01vZWZxUEd5ME9PNGNfejR4X0xmQ2VKNXI1SnB0ZER3aGs1VS1Bd3ZfMlJ0QWYxVHFyN1Jzc3JvT29WTUdiek9Nekc1ZFJsU3o5UTl1SXE1UEhVPQ==: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 23:18:14,613 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rU1JseVZ5T1M5VnFITkxmQTZYUHRtdlI4Z0VoZW9Dc19uLWpyVHp1QUFRblJCUGlIM29OSXJLT3Ryd3hUMDd0bmZrWjcyLXFNdURLMGVhQzR2cnJDdXFWYjNEV0RqTndneGFEQTNRQmtoY2FpSGpCMDRTeDZpUUVlZzYxOEdPUnZWYzZKeXJOTjZ3SFdYNGRfcGRFR2d4dGYyS1otQVdjaW1RdTkwMWRwR1Y3dF9PRVM4VmZoNzQ5QnJXN2xMRy1rNzZUUG56LTVVaW43aGV5ZjhLUDRaUk4xMUJqNy0tNEFxUVE1a2x0Q0R6dlpOc0RuQUMtdnVJNldibEdfRElNd0MyM3RuSDJXRXhDeHBXZUM3QlhiMHQ1V0thNXg3Zng0RnpyNFpWZUR3OTIyY1luNkFULXVhejVIbUxfMDNmNzdsSFVzZVNBSUVVbXBrQ1E4T25WcEFCd0V5V0lNUnpXNkdBT2Vkbi1OUW5UZXFjakRWMzI0NFRUX2hSMVloSWhPNjhQRlZwaC1kczI0RUNXamlKS2JYd3Z0U0prckFMbF85VXp3VVl2Q0FvZXgtNUZIYlc2OWtzMlVXQ045bG9xR2tiSWlkMVc0SkdhcUVTc1BlNjA5NnJ6bUlrNGw3dU9LTEpyYUg5Qjhtc1lpTTZWSkpQaW5CcDBDbmxmSjZHTGpPRVk=: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 23:18:14,614 - PersonalAgent - INFO - Generating LLM response with 9 messages
+2025-08-04 23:18:14,614 - PersonalAgent - INFO - Cache miss (not found) for key: 92c66261...
+2025-08-04 23:18:14,614 - PersonalAgent - INFO - Generating response with 9 messages
+2025-08-04 23:18:14,614 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:18:20,294 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:18:20,294 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:18:20,294 - PersonalAgent - INFO - Response cached with key: 92c66261..., TTL: 3600s
+2025-08-04 23:18:20,294 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:18:20,299 - PersonalAgent - INFO - Saving rating feedback for message 0f930e44-14f6-475c-90a5-00361ca2d68e
+2025-08-04 23:18:20,302 - PersonalAgent - INFO - Rating feedback saved successfully
+2025-08-04 23:18:20,302 - PersonalAgent - INFO - Saving thumbs feedback for message 0f930e44-14f6-475c-90a5-00361ca2d68e
+2025-08-04 23:18:20,306 - PersonalAgent - INFO - Thumbs feedback saved successfully
+2025-08-04 23:18:20,306 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVTZ3ZDR1VTdlNUdqdHEwc2dzUFZPUlRKcGo5d19nMHJLZVl5cjliTWhLbDdzLWprRVIzcW9yOWNYNm5CbDNxUmh4Yk8yR2w5SC1fUlhnN0xocW1xUkxrZnpPSkhxcmhfOEprYnV6LUR4NEQwQVdnQXh2MjEyV1NxSzZwUllQTEhCN1k5RVM3NTdDZU40ZG44Rk5JQk8yc013Z3BZdlpPRFZiMmVtUDRlbHF1NEh3PQ==: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 23:18:20,307 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVXA2a0hDVVlQYlFkOC1XNmhjRHgtV2dwNUxhQWJRUjRfcHlhYnlZcTRnQ2VpQ2tCZ2lSQmQzbEtuSEYwYkZjNnkyMlZXUW02X3o3VjM5ZFB0cmQxVTBPQXIxM01vZWZxUEd5ME9PNGNfejR4X0xmQ2VKNXI1SnB0ZER3aGs1VS1Bd3ZfMlJ0QWYxVHFyN1Jzc3JvT29WTUdiek9Nekc1ZFJsU3o5UTl1SXE1UEhVPQ==: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 23:18:20,307 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rU1JseVZ5T1M5VnFITkxmQTZYUHRtdlI4Z0VoZW9Dc19uLWpyVHp1QUFRblJCUGlIM29OSXJLT3Ryd3hUMDd0bmZrWjcyLXFNdURLMGVhQzR2cnJDdXFWYjNEV0RqTndneGFEQTNRQmtoY2FpSGpCMDRTeDZpUUVlZzYxOEdPUnZWYzZKeXJOTjZ3SFdYNGRfcGRFR2d4dGYyS1otQVdjaW1RdTkwMWRwR1Y3dF9PRVM4VmZoNzQ5QnJXN2xMRy1rNzZUUG56LTVVaW43aGV5ZjhLUDRaUk4xMUJqNy0tNEFxUVE1a2x0Q0R6dlpOc0RuQUMtdnVJNldibEdfRElNd0MyM3RuSDJXRXhDeHBXZUM3QlhiMHQ1V0thNXg3Zng0RnpyNFpWZUR3OTIyY1luNkFULXVhejVIbUxfMDNmNzdsSFVzZVNBSUVVbXBrQ1E4T25WcEFCd0V5V0lNUnpXNkdBT2Vkbi1OUW5UZXFjakRWMzI0NFRUX2hSMVloSWhPNjhQRlZwaC1kczI0RUNXamlKS2JYd3Z0U0prckFMbF85VXp3VVl2Q0FvZXgtNUZIYlc2OWtzMlVXQ045bG9xR2tiSWlkMVc0SkdhcUVTc1BlNjA5NnJ6bUlrNGw3dU9LTEpyYUg5Qjhtc1lpTTZWSkpQaW5CcDBDbmxmSjZHTGpPRVk=: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 23:18:20,307 - PersonalAgent - INFO - Generating LLM response with 9 messages
+2025-08-04 23:18:20,307 - PersonalAgent - INFO - Cache miss (not found) for key: 9ee6d517...
+2025-08-04 23:18:20,307 - PersonalAgent - INFO - Generating response with 9 messages
+2025-08-04 23:18:20,307 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:18:24,277 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:18:24,278 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:18:24,278 - PersonalAgent - INFO - Response cached with key: 9ee6d517..., TTL: 3600s
+2025-08-04 23:18:24,278 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:18:24,285 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVTZ3ZDR1VTdlNUdqdHEwc2dzUFZPUlRKcGo5d19nMHJLZVl5cjliTWhLbDdzLWprRVIzcW9yOWNYNm5CbDNxUmh4Yk8yR2w5SC1fUlhnN0xocW1xUkxrZnpPSkhxcmhfOEprYnV6LUR4NEQwQVdnQXh2MjEyV1NxSzZwUllQTEhCN1k5RVM3NTdDZU40ZG44Rk5JQk8yc013Z3BZdlpPRFZiMmVtUDRlbHF1NEh3PQ==: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 23:18:24,285 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVXA2a0hDVVlQYlFkOC1XNmhjRHgtV2dwNUxhQWJRUjRfcHlhYnlZcTRnQ2VpQ2tCZ2lSQmQzbEtuSEYwYkZjNnkyMlZXUW02X3o3VjM5ZFB0cmQxVTBPQXIxM01vZWZxUEd5ME9PNGNfejR4X0xmQ2VKNXI1SnB0ZER3aGs1VS1Bd3ZfMlJ0QWYxVHFyN1Jzc3JvT29WTUdiek9Nekc1ZFJsU3o5UTl1SXE1UEhVPQ==: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 23:18:24,285 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rU1JseVZ5T1M5VnFITkxmQTZYUHRtdlI4Z0VoZW9Dc19uLWpyVHp1QUFRblJCUGlIM29OSXJLT3Ryd3hUMDd0bmZrWjcyLXFNdURLMGVhQzR2cnJDdXFWYjNEV0RqTndneGFEQTNRQmtoY2FpSGpCMDRTeDZpUUVlZzYxOEdPUnZWYzZKeXJOTjZ3SFdYNGRfcGRFR2d4dGYyS1otQVdjaW1RdTkwMWRwR1Y3dF9PRVM4VmZoNzQ5QnJXN2xMRy1rNzZUUG56LTVVaW43aGV5ZjhLUDRaUk4xMUJqNy0tNEFxUVE1a2x0Q0R6dlpOc0RuQUMtdnVJNldibEdfRElNd0MyM3RuSDJXRXhDeHBXZUM3QlhiMHQ1V0thNXg3Zng0RnpyNFpWZUR3OTIyY1luNkFULXVhejVIbUxfMDNmNzdsSFVzZVNBSUVVbXBrQ1E4T25WcEFCd0V5V0lNUnpXNkdBT2Vkbi1OUW5UZXFjakRWMzI0NFRUX2hSMVloSWhPNjhQRlZwaC1kczI0RUNXamlKS2JYd3Z0U0prckFMbF85VXp3VVl2Q0FvZXgtNUZIYlc2OWtzMlVXQ045bG9xR2tiSWlkMVc0SkdhcUVTc1BlNjA5NnJ6bUlrNGw3dU9LTEpyYUg5Qjhtc1lpTTZWSkpQaW5CcDBDbmxmSjZHTGpPRVk=: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 23:18:24,286 - PersonalAgent - INFO - Generating LLM response with 9 messages
+2025-08-04 23:18:24,286 - PersonalAgent - INFO - Cache miss (not found) for key: 938c9254...
+2025-08-04 23:18:24,286 - PersonalAgent - INFO - Generating response with 9 messages
+2025-08-04 23:18:24,287 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:18:38,125 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:18:38,125 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:18:38,125 - PersonalAgent - INFO - Response cached with key: 938c9254..., TTL: 3600s
+2025-08-04 23:18:38,125 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:19:52,050 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 23:19:52,050 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 23:19:52,050 - PersonalAgent - INFO - Built-in provider openrouter loaded successfully
+2025-08-04 23:19:52,050 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 23:19:52,091 - PersonalAgent - INFO - LLM cache initialized with default TTL: 3600s
+2025-08-04 23:19:52,094 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVTZ3ZDR1VTdlNUdqdHEwc2dzUFZPUlRKcGo5d19nMHJLZVl5cjliTWhLbDdzLWprRVIzcW9yOWNYNm5CbDNxUmh4Yk8yR2w5SC1fUlhnN0xocW1xUkxrZnpPSkhxcmhfOEprYnV6LUR4NEQwQVdnQXh2MjEyV1NxSzZwUllQTEhCN1k5RVM3NTdDZU40ZG44Rk5JQk8yc013Z3BZdlpPRFZiMmVtUDRlbHF1NEh3PQ==: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 23:19:52,094 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVXA2a0hDVVlQYlFkOC1XNmhjRHgtV2dwNUxhQWJRUjRfcHlhYnlZcTRnQ2VpQ2tCZ2lSQmQzbEtuSEYwYkZjNnkyMlZXUW02X3o3VjM5ZFB0cmQxVTBPQXIxM01vZWZxUEd5ME9PNGNfejR4X0xmQ2VKNXI1SnB0ZER3aGs1VS1Bd3ZfMlJ0QWYxVHFyN1Jzc3JvT29WTUdiek9Nekc1ZFJsU3o5UTl1SXE1UEhVPQ==: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 23:19:52,095 - PersonalAgent - INFO - Generating LLM response with 4 messages
+2025-08-04 23:19:52,095 - PersonalAgent - INFO - Cache miss (not found) for key: bbc6ae9d...
+2025-08-04 23:19:52,095 - PersonalAgent - INFO - Generating response with 4 messages
+2025-08-04 23:19:52,095 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:19:56,765 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:19:56,765 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:19:56,765 - PersonalAgent - INFO - Response cached with key: bbc6ae9d..., TTL: 3600s
+2025-08-04 23:19:56,765 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:19:56,780 - PersonalAgent - ERROR - Exception in JSON decode error for content: Z0FBQUFBQm9rVTZ3ZDR1VTdlNUdqdHEwc2dzUFZPUlRKcGo5d19nMHJLZVl5cjliTWhLbDdzLWprRVIzcW9yOWNYNm5CbDNxUmh4Yk8yR2w5SC1fUlhnN0xocW1xUkxrZnpPSkhxcmhfOEprYnV6LUR4NEQwQVdnQXh2MjEyV1NxSzZwUllQTEhCN1k5RVM3NTdDZU40ZG44Rk5JQk8yc013Z3BZdlpPRFZiMmVtUDRlbHF1NEh3PQ==: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-08-04 23:19:56,780 - PersonalAgent - INFO - Generating LLM response with 6 messages
+2025-08-04 23:19:56,780 - PersonalAgent - INFO - Cache miss (not found) for key: 187e1387...
+2025-08-04 23:19:56,780 - PersonalAgent - INFO - Generating response with 6 messages
+2025-08-04 23:19:56,781 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:20:03,348 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:20:03,348 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:20:03,348 - PersonalAgent - INFO - Response cached with key: 187e1387..., TTL: 3600s
+2025-08-04 23:20:03,348 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:20:03,355 - PersonalAgent - INFO - Generating LLM response with 8 messages
+2025-08-04 23:20:03,355 - PersonalAgent - INFO - Cache miss (not found) for key: a570a05a...
+2025-08-04 23:20:03,355 - PersonalAgent - INFO - Generating response with 8 messages
+2025-08-04 23:20:03,355 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:20:14,132 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:20:14,132 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:20:14,132 - PersonalAgent - INFO - Response cached with key: a570a05a..., TTL: 3600s
+2025-08-04 23:20:14,132 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:20:14,139 - PersonalAgent - INFO - Generating LLM response with 9 messages
+2025-08-04 23:20:14,140 - PersonalAgent - INFO - Cache miss (not found) for key: 9980fdd4...
+2025-08-04 23:20:14,140 - PersonalAgent - INFO - Generating response with 9 messages
+2025-08-04 23:20:14,140 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:20:20,890 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:20:20,890 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:20:20,890 - PersonalAgent - INFO - Response cached with key: 9980fdd4..., TTL: 3600s
+2025-08-04 23:20:20,890 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:20:20,899 - PersonalAgent - INFO - Generating LLM response with 9 messages
+2025-08-04 23:20:20,899 - PersonalAgent - INFO - Cache miss (not found) for key: 22a4f7e6...
+2025-08-04 23:20:20,899 - PersonalAgent - INFO - Generating response with 9 messages
+2025-08-04 23:20:20,899 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:20:25,154 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:20:25,154 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:20:25,154 - PersonalAgent - INFO - Response cached with key: 22a4f7e6..., TTL: 3600s
+2025-08-04 23:20:25,154 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:20:25,160 - PersonalAgent - INFO - Saving rating feedback for message 27129e29-94e7-4297-a726-a4120f7342e0
+2025-08-04 23:20:25,164 - PersonalAgent - INFO - Rating feedback saved successfully
+2025-08-04 23:20:25,165 - PersonalAgent - INFO - Saving thumbs feedback for message 27129e29-94e7-4297-a726-a4120f7342e0
+2025-08-04 23:20:25,168 - PersonalAgent - INFO - Thumbs feedback saved successfully
+2025-08-04 23:20:25,170 - PersonalAgent - INFO - Generating LLM response with 9 messages
+2025-08-04 23:20:25,170 - PersonalAgent - INFO - Cache miss (not found) for key: e9771f61...
+2025-08-04 23:20:25,170 - PersonalAgent - INFO - Generating response with 9 messages
+2025-08-04 23:20:25,170 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:20:39,246 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:20:39,246 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:20:39,246 - PersonalAgent - INFO - Response cached with key: e9771f61..., TTL: 3600s
+2025-08-04 23:20:39,246 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:20:39,255 - PersonalAgent - INFO - Generating LLM response with 9 messages
+2025-08-04 23:20:39,255 - PersonalAgent - INFO - Cache miss (not found) for key: 9630bd52...
+2025-08-04 23:20:39,256 - PersonalAgent - INFO - Generating response with 9 messages
+2025-08-04 23:20:39,256 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:20:49,236 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:20:49,236 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:20:49,236 - PersonalAgent - INFO - Response cached with key: 9630bd52..., TTL: 3600s
+2025-08-04 23:20:49,236 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:20:49,573 - PersonalAgent - INFO - Provider openrouter already loaded
+2025-08-04 23:20:49,573 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 23:20:49,605 - PersonalAgent - INFO - Generating LLM response with 4 messages
+2025-08-04 23:20:49,605 - PersonalAgent - INFO - Cache miss (not found) for key: 14c9f748...
+2025-08-04 23:20:49,605 - PersonalAgent - INFO - Generating response with 4 messages
+2025-08-04 23:20:49,605 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:20:54,393 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:20:54,393 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:20:54,393 - PersonalAgent - INFO - Response cached with key: 14c9f748..., TTL: 3600s
+2025-08-04 23:20:54,393 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:20:54,399 - PersonalAgent - INFO - Generating LLM response with 6 messages
+2025-08-04 23:20:54,399 - PersonalAgent - INFO - Cache miss (not found) for key: 0f8d2f73...
+2025-08-04 23:20:54,399 - PersonalAgent - INFO - Generating response with 6 messages
+2025-08-04 23:20:54,399 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:21:10,764 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:21:10,764 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:21:10,764 - PersonalAgent - INFO - Response cached with key: 0f8d2f73..., TTL: 3600s
+2025-08-04 23:21:10,764 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:21:10,769 - PersonalAgent - INFO - Generating LLM response with 8 messages
+2025-08-04 23:21:10,769 - PersonalAgent - INFO - Cache miss (not found) for key: 21ecb66b...
+2025-08-04 23:21:10,769 - PersonalAgent - INFO - Generating response with 8 messages
+2025-08-04 23:21:10,769 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:21:15,354 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:21:15,354 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:21:15,355 - PersonalAgent - INFO - Response cached with key: 21ecb66b..., TTL: 3600s
+2025-08-04 23:21:15,355 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:21:31,086 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 23:21:31,086 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 23:21:31,086 - PersonalAgent - INFO - Built-in provider openrouter loaded successfully
+2025-08-04 23:21:31,086 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 23:21:31,130 - PersonalAgent - INFO - LLM cache initialized with default TTL: 3600s
+2025-08-04 23:21:31,134 - PersonalAgent - INFO - Generating LLM response with 4 messages
+2025-08-04 23:21:31,134 - PersonalAgent - INFO - Cache miss (not found) for key: f246d93b...
+2025-08-04 23:21:31,134 - PersonalAgent - INFO - Generating response with 4 messages
+2025-08-04 23:21:31,134 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:21:34,604 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:21:34,604 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:21:34,604 - PersonalAgent - INFO - Response cached with key: f246d93b..., TTL: 3600s
+2025-08-04 23:21:34,604 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:21:34,612 - PersonalAgent - INFO - Generating LLM response with 6 messages
+2025-08-04 23:21:34,612 - PersonalAgent - INFO - Cache miss (not found) for key: b50c8cbf...
+2025-08-04 23:21:34,612 - PersonalAgent - INFO - Generating response with 6 messages
+2025-08-04 23:21:34,612 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:21:40,489 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:21:40,489 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:21:40,491 - PersonalAgent - INFO - Response cached with key: b50c8cbf..., TTL: 3600s
+2025-08-04 23:21:40,492 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:21:40,496 - PersonalAgent - INFO - Generating LLM response with 8 messages
+2025-08-04 23:21:40,496 - PersonalAgent - INFO - Cache miss (not found) for key: 98f2e4b3...
+2025-08-04 23:21:40,496 - PersonalAgent - INFO - Generating response with 8 messages
+2025-08-04 23:21:40,496 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:21:59,643 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:21:59,643 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:21:59,643 - PersonalAgent - INFO - Response cached with key: 98f2e4b3..., TTL: 3600s
+2025-08-04 23:21:59,643 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:21:59,651 - PersonalAgent - INFO - Provider openrouter already loaded
+2025-08-04 23:21:59,651 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 23:21:59,684 - PersonalAgent - INFO - Generating LLM response with 4 messages
+2025-08-04 23:21:59,684 - PersonalAgent - INFO - Cache miss (not found) for key: a5eddfc0...
+2025-08-04 23:21:59,684 - PersonalAgent - INFO - Generating response with 4 messages
+2025-08-04 23:21:59,684 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:22:05,178 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:22:05,178 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:22:05,179 - PersonalAgent - INFO - Response cached with key: a5eddfc0..., TTL: 3600s
+2025-08-04 23:22:05,179 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:22:05,185 - PersonalAgent - INFO - Generating LLM response with 6 messages
+2025-08-04 23:22:05,185 - PersonalAgent - INFO - Cache miss (not found) for key: 2056e919...
+2025-08-04 23:22:05,185 - PersonalAgent - INFO - Generating response with 6 messages
+2025-08-04 23:22:05,185 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:22:15,931 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:22:15,931 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:22:15,931 - PersonalAgent - INFO - Response cached with key: 2056e919..., TTL: 3600s
+2025-08-04 23:22:15,931 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:22:15,942 - PersonalAgent - INFO - Generating LLM response with 8 messages
+2025-08-04 23:22:15,943 - PersonalAgent - INFO - Cache miss (not found) for key: 7163ccdf...
+2025-08-04 23:22:15,943 - PersonalAgent - INFO - Generating response with 8 messages
+2025-08-04 23:22:15,943 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:22:18,963 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:22:18,963 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:22:18,963 - PersonalAgent - INFO - Response cached with key: 7163ccdf..., TTL: 3600s
+2025-08-04 23:22:18,963 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:22:18,970 - PersonalAgent - INFO - Provider openrouter already loaded
+2025-08-04 23:22:18,971 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 23:22:19,003 - PersonalAgent - INFO - Generating LLM response with 4 messages
+2025-08-04 23:22:19,004 - PersonalAgent - INFO - Cache miss (not found) for key: 532c9473...
+2025-08-04 23:22:19,004 - PersonalAgent - INFO - Generating response with 4 messages
+2025-08-04 23:22:19,004 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:22:27,952 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:22:27,952 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:22:27,952 - PersonalAgent - INFO - Response cached with key: 532c9473..., TTL: 3600s
+2025-08-04 23:22:27,952 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:22:27,958 - PersonalAgent - INFO - Generating LLM response with 6 messages
+2025-08-04 23:22:27,958 - PersonalAgent - INFO - Cache miss (not found) for key: 8ae41ca7...
+2025-08-04 23:22:27,958 - PersonalAgent - INFO - Generating response with 6 messages
+2025-08-04 23:22:27,958 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:22:32,783 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:22:32,783 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:22:32,783 - PersonalAgent - INFO - Response cached with key: 8ae41ca7..., TTL: 3600s
+2025-08-04 23:22:32,783 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:22:32,788 - PersonalAgent - INFO - Generating LLM response with 8 messages
+2025-08-04 23:22:32,788 - PersonalAgent - INFO - Cache miss (not found) for key: 9c971203...
+2025-08-04 23:22:32,788 - PersonalAgent - INFO - Generating response with 8 messages
+2025-08-04 23:22:32,789 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:22:40,018 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:22:40,018 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:22:40,018 - PersonalAgent - INFO - Response cached with key: 9c971203..., TTL: 3600s
+2025-08-04 23:22:40,018 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:22:40,023 - PersonalAgent - INFO - Generating LLM response with 9 messages
+2025-08-04 23:22:40,023 - PersonalAgent - INFO - Cache miss (not found) for key: e44a4972...
+2025-08-04 23:22:40,023 - PersonalAgent - INFO - Generating response with 9 messages
+2025-08-04 23:22:40,023 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:22:52,431 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:22:52,431 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:22:52,431 - PersonalAgent - INFO - Response cached with key: e44a4972..., TTL: 3600s
+2025-08-04 23:22:52,431 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:22:52,436 - PersonalAgent - INFO - Generating LLM response with 9 messages
+2025-08-04 23:22:52,436 - PersonalAgent - INFO - Cache miss (not found) for key: 6257c4fa...
+2025-08-04 23:22:52,436 - PersonalAgent - INFO - Generating response with 9 messages
+2025-08-04 23:22:52,436 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:22:55,558 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:22:55,558 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:22:55,558 - PersonalAgent - INFO - Response cached with key: 6257c4fa..., TTL: 3600s
+2025-08-04 23:22:55,558 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:22:55,566 - PersonalAgent - INFO - Generating LLM response with 9 messages
+2025-08-04 23:22:55,566 - PersonalAgent - INFO - Cache miss (not found) for key: 70ad29c7...
+2025-08-04 23:22:55,566 - PersonalAgent - INFO - Generating response with 9 messages
+2025-08-04 23:22:55,566 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:22:58,611 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:22:58,611 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:22:58,611 - PersonalAgent - INFO - Response cached with key: 70ad29c7..., TTL: 3600s
+2025-08-04 23:22:58,611 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:24:04,569 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 23:24:04,569 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 23:24:04,569 - PersonalAgent - INFO - Built-in provider openrouter loaded successfully
+2025-08-04 23:24:04,569 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 23:24:04,614 - PersonalAgent - INFO - LLM cache initialized with default TTL: 3600s
+2025-08-04 23:24:11,280 - PersonalAgent - INFO - Generating LLM response with 4 messages
+2025-08-04 23:24:11,281 - PersonalAgent - INFO - Cache miss (not found) for key: 116e8eee...
+2025-08-04 23:24:11,281 - PersonalAgent - INFO - Generating response with 4 messages
+2025-08-04 23:24:11,281 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:24:16,379 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:24:16,379 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:24:16,379 - PersonalAgent - INFO - Response cached with key: 116e8eee..., TTL: 3600s
+2025-08-04 23:24:16,379 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:24:55,491 - PersonalAgent - INFO - Generating LLM response with 6 messages
+2025-08-04 23:24:55,491 - PersonalAgent - INFO - Cache miss (not found) for key: 280921d6...
+2025-08-04 23:24:55,491 - PersonalAgent - INFO - Generating response with 6 messages
+2025-08-04 23:24:55,491 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:25:01,738 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:25:01,738 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:25:01,738 - PersonalAgent - INFO - Response cached with key: 280921d6..., TTL: 3600s
+2025-08-04 23:25:01,738 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:25:17,580 - PersonalAgent - INFO - Generating LLM response with 8 messages
+2025-08-04 23:25:17,580 - PersonalAgent - INFO - Cache miss (not found) for key: a3b66a65...
+2025-08-04 23:25:17,580 - PersonalAgent - INFO - Generating response with 8 messages
+2025-08-04 23:25:17,580 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:25:27,208 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:25:27,208 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:25:27,208 - PersonalAgent - INFO - Response cached with key: a3b66a65..., TTL: 3600s
+2025-08-04 23:25:27,208 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:43:44,473 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 23:43:44,473 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 23:43:44,473 - PersonalAgent - INFO - Built-in provider openrouter loaded successfully
+2025-08-04 23:43:44,473 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 23:43:44,517 - PersonalAgent - INFO - LLM cache initialized with default TTL: 3600s
+2025-08-04 23:43:44,528 - PersonalAgent - INFO - Provider openrouter already loaded
+2025-08-04 23:43:44,528 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 23:49:03,788 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 23:49:03,788 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 23:49:03,788 - PersonalAgent - INFO - Built-in provider openrouter loaded successfully
+2025-08-04 23:49:03,788 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 23:49:03,831 - PersonalAgent - INFO - LLM cache initialized with default TTL: 3600s
+2025-08-04 23:49:03,835 - PersonalAgent - INFO - Generating LLM response with 4 messages
+2025-08-04 23:49:03,835 - PersonalAgent - INFO - Cache miss (not found) for key: 78d10bfb...
+2025-08-04 23:49:03,835 - PersonalAgent - INFO - Generating response with 4 messages
+2025-08-04 23:49:03,835 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:49:24,295 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:49:24,295 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:49:24,295 - PersonalAgent - INFO - Response cached with key: 78d10bfb..., TTL: 3600s
+2025-08-04 23:49:24,295 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:49:24,304 - PersonalAgent - INFO - Provider openrouter already loaded
+2025-08-04 23:49:24,304 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 23:49:24,335 - PersonalAgent - INFO - Generating LLM response with 4 messages
+2025-08-04 23:49:24,335 - PersonalAgent - INFO - Cache miss (not found) for key: 688e6ffe...
+2025-08-04 23:49:24,335 - PersonalAgent - INFO - Generating response with 4 messages
+2025-08-04 23:49:24,335 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:49:29,251 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:49:29,251 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:49:29,251 - PersonalAgent - INFO - Response cached with key: 688e6ffe..., TTL: 3600s
+2025-08-04 23:49:29,252 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:51:15,245 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 23:51:15,245 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 23:51:15,245 - PersonalAgent - INFO - Built-in provider openrouter loaded successfully
+2025-08-04 23:51:15,245 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 23:51:15,289 - PersonalAgent - INFO - LLM cache initialized with default TTL: 3600s
+2025-08-04 23:51:15,293 - PersonalAgent - INFO - Generating LLM response with 4 messages
+2025-08-04 23:51:15,293 - PersonalAgent - INFO - Cache miss (not found) for key: 2d5f0610...
+2025-08-04 23:51:15,293 - PersonalAgent - INFO - Generating response with 4 messages
+2025-08-04 23:51:15,293 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:51:21,519 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:51:21,519 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:51:21,519 - PersonalAgent - INFO - Response cached with key: 2d5f0610..., TTL: 3600s
+2025-08-04 23:51:21,519 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:51:21,528 - PersonalAgent - INFO - Provider openrouter already loaded
+2025-08-04 23:51:21,528 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 23:51:21,560 - PersonalAgent - INFO - Generating LLM response with 4 messages
+2025-08-04 23:51:21,561 - PersonalAgent - INFO - Cache miss (not found) for key: 7ab06b82...
+2025-08-04 23:51:21,561 - PersonalAgent - INFO - Generating response with 4 messages
+2025-08-04 23:51:21,561 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:51:25,831 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:51:25,831 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:51:25,831 - PersonalAgent - INFO - Response cached with key: 7ab06b82..., TTL: 3600s
+2025-08-04 23:51:25,831 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:52:16,613 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 23:52:16,613 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 23:52:16,613 - PersonalAgent - INFO - Built-in provider openrouter loaded successfully
+2025-08-04 23:52:16,613 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 23:52:16,657 - PersonalAgent - INFO - LLM cache initialized with default TTL: 3600s
+2025-08-04 23:52:16,660 - PersonalAgent - INFO - Generating LLM response with 4 messages
+2025-08-04 23:52:16,661 - PersonalAgent - INFO - Cache miss (not found) for key: c559e443...
+2025-08-04 23:52:16,661 - PersonalAgent - INFO - Generating response with 4 messages
+2025-08-04 23:52:16,661 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:52:27,561 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:52:27,561 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:52:27,561 - PersonalAgent - INFO - Response cached with key: c559e443..., TTL: 3600s
+2025-08-04 23:52:27,561 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:52:27,570 - PersonalAgent - INFO - Provider openrouter already loaded
+2025-08-04 23:52:27,570 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 23:52:27,601 - PersonalAgent - INFO - Generating LLM response with 4 messages
+2025-08-04 23:52:27,601 - PersonalAgent - INFO - Cache miss (not found) for key: 497a7007...
+2025-08-04 23:52:27,601 - PersonalAgent - INFO - Generating response with 4 messages
+2025-08-04 23:52:27,601 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:52:33,719 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:52:33,719 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:52:33,719 - PersonalAgent - INFO - Response cached with key: 497a7007..., TTL: 3600s
+2025-08-04 23:52:33,719 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:53:14,127 - PersonalAgent - INFO - LLMPluginManager initialized
+2025-08-04 23:53:14,127 - PersonalAgent - INFO - Loading provider: openrouter
+2025-08-04 23:53:14,127 - PersonalAgent - INFO - Built-in provider openrouter loaded successfully
+2025-08-04 23:53:14,127 - PersonalAgent - INFO - Initializing openrouter provider via plugin system
+2025-08-04 23:53:14,168 - PersonalAgent - INFO - LLM cache initialized with default TTL: 3600s
+2025-08-04 23:53:14,170 - PersonalAgent - INFO - Generating LLM response with 4 messages
+2025-08-04 23:53:14,171 - PersonalAgent - INFO - Cache miss (not found) for key: 7beef59a...
+2025-08-04 23:53:14,171 - PersonalAgent - INFO - Generating response with 4 messages
+2025-08-04 23:53:14,171 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:53:25,141 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:53:25,141 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:53:25,141 - PersonalAgent - INFO - Response cached with key: 7beef59a..., TTL: 3600s
+2025-08-04 23:53:25,141 - PersonalAgent - INFO - LLM response generated successfully
+2025-08-04 23:53:25,154 - PersonalAgent - INFO - Generating LLM response with 8 messages
+2025-08-04 23:53:25,155 - PersonalAgent - INFO - Cache miss (not found) for key: cc9de078...
+2025-08-04 23:53:25,155 - PersonalAgent - INFO - Generating response with 8 messages
+2025-08-04 23:53:25,155 - PersonalAgent - INFO - Calling OpenRouter API with model: qwen/qwen3-coder:free
+2025-08-04 23:53:28,689 - PersonalAgent - INFO - OpenRouter API call successful
+2025-08-04 23:53:28,689 - PersonalAgent - INFO - Response generated successfully
+2025-08-04 23:53:28,690 - PersonalAgent - INFO - Response cached with key: cc9de078..., TTL: 3600s
+2025-08-04 23:53:28,690 - PersonalAgent - INFO - LLM response generated successfully

@@ -1,0 +1,46 @@
+============================================================
+PERSONAL AGENT - ERROR HANDLING TEST REPORT
+============================================================
+Total Tests: 8
+Passed: 0
+Failed: 8
+Success Rate: 0.0%
+
+DETAILED RESULTS:
+----------------------------------------
+[FAIL] Input Validation
+    Message: Input validation failed
+    Error: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+
+[FAIL] Memory Error Handling
+    Message: Memory error handling failed
+    Error: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+
+[FAIL] LLM Error Handling
+    Message: LLM error handling failed
+    Error: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+
+[FAIL] Exit Commands
+    Message: Exit commands failed
+    Error: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+
+[FAIL] Conversation History Boundaries
+    Message: Conversation history boundaries failed
+    Error: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+
+[FAIL] Feedback Error Handling
+    Message: Feedback error handling failed
+    Error: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+
+[FAIL] Concurrent Access Simulation
+    Message: Concurrent access simulation failed
+    Error: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+
+[FAIL] Configuration Edge Cases
+    Message: Configuration edge cases failed
+    Error: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+
+----------------------------------------
+SUMMARY:
+Overall Status: FAILED
+============================================================

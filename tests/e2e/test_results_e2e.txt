@@ -1,0 +1,19 @@
+============================================================
+PERSONAL AGENT - END-TO-END TEST REPORT
+============================================================
+Test Run: 2025-08-05 18:35:26
+Total Tests: 1
+Passed: 0
+Failed: 1
+Success Rate: 0.0%
+
+DETAILED RESULTS:
+----------------------------------------
+[FAIL] Test Suite
+    Message: Test suite failed to run
+    Error: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+
+----------------------------------------
+SUMMARY:
+Overall Status: FAILED
+============================================================

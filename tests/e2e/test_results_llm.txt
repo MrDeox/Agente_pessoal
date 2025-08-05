@@ -1,0 +1,36 @@
+============================================================
+PERSONAL AGENT - LLM INTEGRATION TEST REPORT
+============================================================
+Total Tests: 6
+Passed: 1
+Failed: 5
+Success Rate: 16.7%
+
+DETAILED RESULTS:
+----------------------------------------
+[PASS] LLM Client Initialization
+
+[FAIL] LLM Response Generation
+    Message: LLM response generation failed
+    Error: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+
+[FAIL] Context-Aware Responses
+    Message: Context-aware responses failed
+    Error: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+
+[FAIL] Conversation Flow with LLM
+    Message: Conversation flow with LLM failed
+    Error: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+
+[FAIL] LLM Error Handling
+    Message: LLM error handling failed
+    Error: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+
+[FAIL] LLM Message Formatting
+    Message: LLM message formatting failed
+    Error: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+
+----------------------------------------
+SUMMARY:
+Overall Status: FAILED
+============================================================

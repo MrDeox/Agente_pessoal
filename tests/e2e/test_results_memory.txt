@@ -1,0 +1,30 @@
+============================================================
+PERSONAL AGENT - MEMORY FUNCTIONALITY TEST REPORT
+============================================================
+Total Tests: 5
+Passed: 2
+Failed: 3
+Success Rate: 40.0%
+
+DETAILED RESULTS:
+----------------------------------------
+[PASS] Memory Storage Operations
+
+[FAIL] Conversation Memory
+    Message: Conversation memory functionality failed
+    Error: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+
+[FAIL] Knowledge Memory
+    Message: Knowledge memory functionality failed
+    Error: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+
+[FAIL] Memory Persistence
+    Message: Memory persistence failed
+    Error: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+
+[PASS] Memory Edge Cases
+
+----------------------------------------
+SUMMARY:
+Overall Status: FAILED
+============================================================
