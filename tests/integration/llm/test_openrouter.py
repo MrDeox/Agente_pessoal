@@ -23,7 +23,7 @@ def test_openrouter():
     config = Config()
     config.llm.provider = "openrouter"
     config.llm.model = "qwen/qwen3-coder:free"
-    config.llm.api_key = "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"
+    config.llm.api_key = os.getenv("PA_LLM__API_KEY", "test-key-placeholder")
     config.llm.temperature = 0.7
     
     try:
